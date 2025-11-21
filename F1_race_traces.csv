@@ -1,0 +1,879 @@
+resultIs,year,round,circuit,Track,No of Drivers,Drivers,surname,constructor,Team,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,status
+1,2024,1,3,Bahrain,1,Max,Verstappen,9,Red Bull,1,1,1,1,26,57,31:44.7,5504742,39,1,01:32.6,210.383,1
+2,2024,1,3,Bahrain,11,Sergio,Perez,9,Red Bull,5,2,2,2,18,57,22.457,5527199,40,4,01:34.4,206.468,1
+3,2024,1,3,Bahrain,55,Carlos,Sainz,6,Ferrari,4,3,3,3,15,57,25.11,5529852,44,6,01:34.5,206.156,1
+4,2024,1,3,Bahrain,16,Charles,Leclerc,6,Ferrari,2,4,4,4,12,57,39.669,5544411,36,2,01:34.1,207.069,1
+5,2024,1,3,Bahrain,63,George,Russell,131,Mercedes,3,5,5,5,10,57,46.788,5551530,40,12,01:35.1,204.946,1
+6,2024,1,3,Bahrain,4,Lando,Norris,1,McLaren,7,6,6,6,8,57,48.458,5553200,1,5,01:34.5,206.223,1
+7,2024,1,3,Bahrain,44,Lewis,Hamilton,131,Mercedes,9,7,7,7,6,57,50.324,5555066,39,7,01:34.7,205.688,1
+8,2024,1,3,Bahrain,81,Oscar,Piastri,1,McLaren,8,8,8,8,4,57,56.082,5560824,1,11,01:35.0,205.123,1
+9,2024,1,3,Bahrain,14,Fernando,Alonso,117,Aston Martin,6,9,9,9,2,57,74.887,5579629,48,3,01:34.2,206.83,1
+10,2024,1,3,Bahrain,18,Lance,Stroll,117,Aston Martin,12,10,10,10,1,57,93.216,5597958,30,16,01:35.6,203.73,1
+11,2024,1,3,Bahrain,24,Guanyu,Zhou,15,kick Sauber,17,11,11,11,0,56,\N,\N,30,14,01:35.5,204.102,11
+12,2024,1,3,Bahrain,20,Kevin,Magnussen,210,Haas F1 Team,15,12,12,12,0,56,\N,\N,34,15,01:35.6,203.863,11
+13,2024,1,3,Bahrain,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,14,13,13,13,0,56,\N,\N,37,13,01:35.2,204.735,11
+14,2024,1,3,Bahrain,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,11,14,14,14,0,56,\N,\N,37,18,01:35.8,203.303,11
+15,2024,1,3,Bahrain,23,Alexander,Albon,3,Williams,13,15,15,15,0,56,\N,\N,40,17,01:35.7,203.537,11
+16,2024,1,3,Bahrain,27,Nico,Haulkenberg,210,Haas F1 Team,10,16,16,16,0,56,\N,\N,46,10,01:34.8,205.445,11
+17,2024,1,3,Bahrain,31,Esteban,Ocon,214,Alpine F1 Team,19,17,17,17,0,56,\N,\N,34,20,01:36.2,202.473,11
+18,2024,1,3,Bahrain,10,Pierre,Gasly,214,Alpine F1 Team,20,18,18,18,0,56,\N,\N,45,9,01:34.8,205.508,11
+19,2024,1,3,Bahrain,77,Valtteri,Bottas,15,kick Sauber,16,19,19,19,0,56,\N,\N,33,19,01:36.2,202.523,11
+20,2024,1,3,Bahrain,2,Logan,Sargeant,3,Williams,18,20,20,20,0,55,\N,\N,42,8,01:34.7,205.659,12
+21,2024,2,77,Saudi Arabian,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,50,20:43.3,4843273,50,3,01:31.8,242.188,1
+22,2024,2,77,Saudi Arabian,11,Sergio,Perez,9,Red Bull,3,2,2,2,18,50,13.643,4856916,37,8,01:32.3,240.876,1
+23,2024,2,77,Saudi Arabian,16,Charles,Leclerc,6,Ferrari,2,3,3,3,16,50,18.639,4861912,50,1,01:31.6,242.561,1
+24,2024,2,77,Saudi Arabian,81,Oscar,Piastri,1,McLaren,5,4,4,4,12,50,32.007,4875280,1,10,01:32.3,240.779,1
+25,2024,2,77,Saudi Arabian,14,Fernando,Alonso,117,Aston Martin,4,5,5,5,10,50,35.759,4879032,43,13,01:32.4,240.579,1
+26,2024,2,77,Saudi Arabian,63,George,Russell,131,Mercedes,7,6,6,6,8,50,39.936,4883209,42,7,01:32.3,240.926,1
+27,2024,2,77,Saudi Arabian,38,Oliver,Bearman,6,Ferrari,11,7,7,7,6,50,42.679,4885952,50,5,01:32.2,241.103,1
+28,2024,2,77,Saudi Arabian,4,Lando,Norris,1,McLaren,6,8,8,8,4,50,45.708,4888981,1,4,01:31.9,241.738,1
+29,2024,2,77,Saudi Arabian,44,Lewis,Hamilton,131,Mercedes,8,9,9,9,2,50,47.391,4890664,38,2,01:31.7,242.26,1
+30,2024,2,77,Saudi Arabian,27,Nico,Haulkenberg,210,Haas F1 Team,15,10,10,10,1,50,76.996,4920269,49,12,01:32.4,240.633,1
+31,2024,2,77,Saudi Arabian,23,Alexander,Albon,3,Williams,12,11,11,11,0,50,88.354,4931627,50,9,01:32.3,240.787,1
+32,2024,2,77,Saudi Arabian,20,Kevin,Magnussen,210,Haas F1 Team,13,12,12,12,0,50,105.737,4949010,47,11,01:32.3,240.706,1
+33,2024,2,77,Saudi Arabian,31,Esteban,Ocon,214,Alpine F1 Team,17,13,13,13,0,49,\N,\N,48,17,01:33.5,237.763,11
+34,2024,2,77,Saudi Arabian,2,Logan,Sargeant,3,Williams,19,14,14,14,0,49,\N,\N,44,18,01:33.5,237.657,11
+35,2024,2,77,Saudi Arabian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,9,15,15,15,0,49,\N,\N,49,15,01:33.0,238.926,11
+36,2024,2,77,Saudi Arabian,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,14,16,16,16,0,49,\N,\N,47,16,01:33.3,238.166,11
+37,2024,2,77,Saudi Arabian,77,Valtteri,Bottas,15,kick Sauber,16,17,17,17,0,49,\N,\N,49,14,01:32.7,239.751,11
+38,2024,2,77,Saudi Arabian,24,Guanyu,Zhou,15,kick Sauber,20,18,18,18,0,49,\N,\N,49,6,01:32.2,241.046,11
+39,2024,2,77,Saudi Arabian,18,Lance,Stroll,117,Aston Martin,10,\N,R,19,0,5,\N,\N,5,19,01:35.6,232.591,3
+40,2024,2,77,Saudi Arabian,10,Pierre,Gasly,214,Alpine F1 Team,18,\N,R,20,0,1,\N,\N,\N,0,\N,\N,6
+41,2024,3,1,Australian,55,Carlos,Sainz,6,Ferrari,2,1,1,1,25,58,20:26.8,4826843,48,3,01:20.0,237.418,1
+42,2024,3,1,Australian,16,Charles,Leclerc,6,Ferrari,4,2,2,2,19,58,2.366,4829209,56,1,01:19.8,238.066,1
+43,2024,3,1,Australian,4,Lando,Norris,1,McLaren,3,3,3,3,15,58,5.904,4832747,1,2,01:19.9,237.762,1
+44,2024,3,1,Australian,81,Oscar,Piastri,1,McLaren,5,4,4,4,12,58,35.77,4862613,1,4,01:20.2,236.92,1
+45,2024,3,1,Australian,11,Sergio,Perez,9,Red Bull,6,5,5,5,10,58,56.309,4883152,47,6,01:20.4,236.363,1
+46,2024,3,1,Australian,18,Lance,Stroll,117,Aston Martin,9,6,6,6,8,58,93.222,4920065,49,8,01:20.9,234.78,1
+47,2024,3,1,Australian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,8,7,7,7,6,58,95.601,4922444,46,11,01:21.1,234.19,1
+48,2024,3,1,Australian,14,Fernando,Alonso,117,Aston Martin,10,8,8,8,4,58,100.992,4927835,52,7,01:20.5,236.055,1
+49,2024,3,1,Australian,27,Nico,Haulkenberg,210,Haas F1 Team,16,9,9,9,2,58,104.553,4931396,46,12,01:21.1,234.158,1
+50,2024,3,1,Australian,20,Kevin,Magnussen,210,Haas F1 Team,14,10,10,10,1,57,\N,\N,44,9,01:21.1,234.34,11
+51,2024,3,1,Australian,23,Alexander,Albon,3,Williams,12,11,11,11,0,57,\N,\N,46,17,01:21.6,232.801,11
+52,2024,3,1,Australian,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,18,12,12,12,0,57,\N,\N,46,13,01:21.2,233.887,11
+53,2024,3,1,Australian,10,Pierre,Gasly,214,Alpine F1 Team,17,13,13,13,0,57,\N,\N,51,10,01:21.1,234.317,11
+54,2024,3,1,Australian,77,Valtteri,Bottas,15,kick Sauber,13,14,14,14,0,57,\N,\N,48,16,01:21.4,233.361,11
+55,2024,3,1,Australian,24,Guanyu,Zhou,15,kick Sauber,19,15,15,15,0,57,\N,\N,49,14,01:21.3,233.634,11
+56,2024,3,1,Australian,31,Esteban,Ocon,214,Alpine F1 Team,15,16,16,16,0,57,\N,\N,45,15,01:21.4,233.557,11
+57,2024,3,1,Australian,63,George,Russell,131,Mercedes,7,17,17,17,0,56,\N,\N,53,5,01:20.3,236.669,3
+58,2024,3,1,Australian,44,Lewis,Hamilton,131,Mercedes,11,\N,R,18,0,15,\N,\N,11,18,01:22.4,230.469,5
+59,2024,3,1,Australian,1,Max,Verstappen,9,Red Bull,1,\N,R,19,0,3,\N,\N,3,19,01:23.1,228.608,23
+60,2024,4,22,Japanese,1,Max,Verstappen,9,Red Bull,1,1,1,1,26,53,54:23.6,6863566,50,1,01:33.7,223.093,1
+61,2024,4,22,Japanese,11,Sergio,Perez,9,Red Bull,2,2,2,2,18,53,12.535,6876101,35,3,01:33.9,222.525,1
+62,2024,4,22,Japanese,55,Carlos,Sainz,6,Ferrari,4,3,3,3,15,53,20.866,6884432,46,2,01:33.8,222.772,1
+63,2024,4,22,Japanese,16,Charles,Leclerc,6,Ferrari,8,4,4,4,12,53,26.522,6890088,53,9,01:35.0,219.952,1
+64,2024,4,22,Japanese,4,Lando,Norris,1,McLaren,3,5,5,5,10,53,29.7,6893266,1,10,01:35.2,219.624,1
+65,2024,4,22,Japanese,14,Fernando,Alonso,117,Aston Martin,5,6,6,6,8,53,44.272,6907838,53,6,01:34.7,220.691,1
+66,2024,4,22,Japanese,63,George,Russell,131,Mercedes,9,7,7,7,6,53,45.951,6909517,39,5,01:34.4,221.444,1
+67,2024,4,22,Japanese,81,Oscar,Piastri,1,McLaren,6,8,8,8,4,53,47.525,6911091,1,7,01:34.8,220.514,1
+68,2024,4,22,Japanese,44,Lewis,Hamilton,131,Mercedes,7,9,9,9,2,53,48.626,6912192,41,4,01:34.0,222.509,1
+69,2024,4,22,Japanese,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,10,10,10,10,1,52,\N,\N,51,14,01:36.3,216.989,11
+70,2024,4,22,Japanese,27,Nico,Haulkenberg,210,Haas F1 Team,12,11,11,11,0,52,\N,\N,52,11,01:35.3,219.304,11
+71,2024,4,22,Japanese,18,Lance,Stroll,117,Aston Martin,16,12,12,12,0,52,\N,\N,41,12,01:35.8,218.221,11
+72,2024,4,22,Japanese,20,Kevin,Magnussen,210,Haas F1 Team,18,13,13,13,0,52,\N,\N,24,17,01:36.7,216.289,11
+73,2024,4,22,Japanese,77,Valtteri,Bottas,15,kick Sauber,13,14,14,14,0,52,\N,\N,25,15,01:36.6,216.392,11
+74,2024,4,22,Japanese,31,Esteban,Ocon,214,Alpine F1 Team,15,15,15,15,0,52,\N,\N,52,13,01:36.2,217.237,11
+75,2024,4,22,Japanese,10,Pierre,Gasly,214,Alpine F1 Team,17,16,16,16,0,52,\N,\N,48,16,01:36.6,216.315,11
+76,2024,4,22,Japanese,2,Logan,Sargeant,3,Williams,19,17,17,17,0,52,\N,\N,43,8,01:34.9,220.286,11
+77,2024,4,22,Japanese,24,Guanyu,Zhou,15,kick Sauber,20,\N,R,18,0,12,\N,\N,9,18,01:37.2,215.162,6
+78,2024,4,22,Japanese,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,11,\N,R,19,0,0,\N,\N,\N,0,\N,\N,3
+79,2024,4,22,Japanese,23,Alexander,Albon,3,Williams,14,\N,R,20,0,0,\N,\N,\N,0,\N,\N,3
+80,2024,5,17,Chinese,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,56,40:52.6,6052554,33,2,01:38.4,199.414,1
+81,2024,5,17,Chinese,4,Lando,Norris,1,McLaren,4,2,2,2,18,56,13.773,6066327,1,4,01:38.8,198.717,1
+82,2024,5,17,Chinese,11,Sergio,Perez,9,Red Bull,2,3,3,3,15,56,19.16,6071714,33,7,01:39.4,197.444,1
+83,2024,5,17,Chinese,16,Charles,Leclerc,6,Ferrari,6,4,4,4,12,56,23.623,6076177,33,6,01:39.4,197.452,1
+84,2024,5,17,Chinese,55,Carlos,Sainz,6,Ferrari,7,5,5,5,10,56,33.983,6086537,19,10,01:39.8,196.7,1
+85,2024,5,17,Chinese,63,George,Russell,131,Mercedes,8,6,6,6,8,56,38.724,6091278,39,11,01:40.1,196.016,1
+86,2024,5,17,Chinese,14,Fernando,Alonso,117,Aston Martin,3,7,7,7,7,56,43.414,6095968,45,1,01:37.8,200.629,1
+87,2024,5,17,Chinese,81,Oscar,Piastri,1,McLaren,5,8,8,8,4,56,56.198,6108752,1,9,01:39.7,196.749,1
+88,2024,5,17,Chinese,44,Lewis,Hamilton,131,Mercedes,18,9,9,9,2,56,57.986,6110540,34,14,01:40.8,194.61,1
+89,2024,5,17,Chinese,27,Nico,Haulkenberg,210,Haas F1 Team,9,10,10,10,1,56,60.476,6113030,32,13,01:40.8,194.649,1
+90,2024,5,17,Chinese,31,Esteban,Ocon,214,Alpine F1 Team,13,11,11,11,0,56,62.812,6115366,33,15,01:40.9,194.414,1
+91,2024,5,17,Chinese,23,Alexander,Albon,3,Williams,14,12,12,12,0,56,65.506,6118060,34,12,01:40.8,194.697,1
+92,2024,5,17,Chinese,10,Pierre,Gasly,214,Alpine F1 Team,15,13,13,13,0,56,69.223,6121777,40,5,01:39.2,197.822,1
+93,2024,5,17,Chinese,24,Guanyu,Zhou,15,kick Sauber,16,14,14,14,0,56,71.689,6124243,42,3,01:38.6,198.955,1
+94,2024,5,17,Chinese,18,Lance,Stroll,117,Aston Martin,11,15,15,15,0,56,82.786,6135340,37,8,01:39.4,197.333,1
+95,2024,5,17,Chinese,20,Kevin,Magnussen,210,Haas F1 Team,17,16,16,16,0,56,87.533,6140087,45,18,01:41.1,194.145,1
+96,2024,5,17,Chinese,2,Logan,Sargeant,3,Williams,20,17,17,17,0,56,95.11,6147664,14,17,01:41.0,194.293,1
+97,2024,5,17,Chinese,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,12,\N,R,18,0,33,\N,\N,16,16,01:41.0,194.304,31
+98,2024,5,17,Chinese,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,19,\N,R,19,0,26,\N,\N,11,20,01:41.6,193.158,31
+99,2024,5,17,Chinese,77,Valtteri,Bottas,15,kick Sauber,10,\N,R,20,0,19,\N,\N,11,19,01:41.3,193.763,31
+100,2024,6,79,Miami,4,Lando,Norris,1,McLaren,5,1,1,1,25,57,30:49.9,5449876,55,5,01:31.0,214.148,1
+101,2024,6,79,Miami,1,Max,Verstappen,9,Red Bull,1,2,2,2,18,57,7.612,5457488,48,8,01:31.3,213.488,1
+102,2024,6,79,Miami,16,Charles,Leclerc,6,Ferrari,2,3,3,3,15,57,9.92,5459796,56,6,01:31.1,213.903,1
+103,2024,6,79,Miami,11,Sergio,Perez,9,Red Bull,4,4,4,4,12,57,14.65,5464526,55,3,01:30.9,214.442,1
+104,2024,6,79,Miami,55,Carlos,Sainz,6,Ferrari,3,5,5,5,10,57,16.407,5466283,55,4,01:30.9,214.27,1
+105,2024,6,79,Miami,44,Lewis,Hamilton,131,Mercedes,8,6,6,6,8,57,16.585,5466461,54,7,01:31.2,213.554,1
+106,2024,6,79,Miami,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,10,7,7,7,6,57,26.185,5476061,55,10,01:31.7,212.508,1
+107,2024,6,79,Miami,63,George,Russell,131,Mercedes,7,8,8,8,4,57,34.789,5484665,43,13,01:31.9,211.955,1
+108,2024,6,79,Miami,14,Fernando,Alonso,117,Aston Martin,15,9,9,9,2,57,37.107,5486983,55,11,01:31.7,212.404,1
+109,2024,6,79,Miami,31,Esteban,Ocon,214,Alpine F1 Team,13,10,10,10,1,57,39.746,5489622,51,16,01:32.0,211.688,1
+110,2024,6,79,Miami,27,Nico,Haulkenberg,210,Haas F1 Team,9,11,11,11,0,57,40.789,5490665,56,14,01:31.9,211.909,1
+111,2024,6,79,Miami,10,Pierre,Gasly,214,Alpine F1 Team,12,12,12,12,0,57,44.958,5494834,56,17,01:32.1,211.647,1
+112,2024,6,79,Miami,81,Oscar,Piastri,1,McLaren,6,13,13,13,0,57,49.756,5499632,43,1,01:30.6,214.965,1
+113,2024,6,79,Miami,24,Guanyu,Zhou,15,kick Sauber,19,14,14,14,0,57,49.979,5499855,56,15,01:32.0,211.794,1
+114,2024,6,79,Miami,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,20,15,15,15,0,57,50.956,5500832,57,19,01:32.1,211.493,1
+115,2024,6,79,Miami,77,Valtteri,Bottas,15,kick Sauber,16,16,16,16,0,57,52.356,5502232,55,18,01:32.1,211.548,1
+116,2024,6,79,Miami,18,Lance,Stroll,117,Aston Martin,11,17,17,17,0,57,55.173,5505049,57,9,01:31.6,212.726,1
+117,2024,6,79,Miami,23,Alexander,Albon,3,Williams,14,18,18,18,0,57,76.091,5525967,55,2,01:30.8,214.456,1
+118,2024,6,79,Miami,20,Kevin,Magnussen,210,Haas F1 Team,18,19,19,19,0,57,84.683,5534559,33,12,01:31.8,212.295,1
+119,2024,6,79,Miami,2,Logan,Sargeant,3,Williams,17,\N,R,20,0,27,\N,\N,15,20,01:33.5,208.483,4
+120,2024,7,21,Emilia Romagna,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,63,25:25.3,5125252,38,9,01:20.4,219.898,1
+121,2024,7,21,Emilia Romagna,4,Lando,Norris,1,McLaren,2,2,2,2,18,63,0.725,5125977,54,6,01:20.0,220.921,1
+122,2024,7,21,Emilia Romagna,16,Charles,Leclerc,6,Ferrari,3,3,3,3,15,63,7.916,5133168,27,5,01:19.9,221.084,1
+123,2024,7,21,Emilia Romagna,81,Oscar,Piastri,1,McLaren,5,4,4,4,12,63,14.132,5139384,25,4,01:19.9,221.162,1
+124,2024,7,21,Emilia Romagna,55,Carlos,Sainz,6,Ferrari,4,5,5,5,10,63,22.325,5147577,63,7,01:20.2,220.299,1
+125,2024,7,21,Emilia Romagna,44,Lewis,Hamilton,131,Mercedes,8,6,6,6,8,63,35.104,5160356,43,8,01:20.3,219.994,1
+126,2024,7,21,Emilia Romagna,63,George,Russell,131,Mercedes,6,7,7,7,7,63,47.154,5172406,54,1,01:18.6,224.871,1
+127,2024,7,21,Emilia Romagna,11,Sergio,Perez,9,Red Bull,11,8,8,8,4,63,54.776,5180028,52,3,01:19.7,221.775,1
+128,2024,7,21,Emilia Romagna,18,Lance,Stroll,117,Aston Martin,13,9,9,9,2,63,79.556,5204808,58,10,01:20.6,219.342,1
+129,2024,7,21,Emilia Romagna,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,7,10,10,10,1,62,\N,\N,14,11,01:20.9,218.35,11
+130,2024,7,21,Emilia Romagna,27,Nico,Haulkenberg,210,Haas F1 Team,10,11,11,11,0,62,\N,\N,3,20,01:21.7,216.308,11
+131,2024,7,21,Emilia Romagna,20,Kevin,Magnussen,210,Haas F1 Team,18,12,12,12,0,62,\N,\N,58,12,01:21.0,218.153,11
+132,2024,7,21,Emilia Romagna,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,9,13,13,13,0,62,\N,\N,13,19,01:21.6,216.655,11
+133,2024,7,21,Emilia Romagna,31,Esteban,Ocon,214,Alpine F1 Team,12,14,14,14,0,62,\N,\N,37,16,01:21.3,217.361,11
+134,2024,7,21,Emilia Romagna,24,Guanyu,Zhou,15,kick Sauber,17,15,15,15,0,62,\N,\N,37,13,01:21.0,218.134,11
+135,2024,7,21,Emilia Romagna,10,Pierre,Gasly,214,Alpine F1 Team,15,16,16,16,0,62,\N,\N,10,17,01:21.4,217.183,11
+136,2024,7,21,Emilia Romagna,2,Logan,Sargeant,3,Williams,19,17,17,17,0,62,\N,\N,55,14,01:21.2,217.562,11
+137,2024,7,21,Emilia Romagna,77,Valtteri,Bottas,15,kick Sauber,16,18,18,18,0,62,\N,\N,11,18,01:21.5,216.959,11
+138,2024,7,21,Emilia Romagna,14,Fernando,Alonso,117,Aston Martin,20,19,19,19,0,62,\N,\N,62,2,01:19.0,223.689,11
+139,2024,7,21,Emilia Romagna,23,Alexander,Albon,3,Williams,14,\N,R,20,0,51,\N,\N,48,15,01:21.3,217.442,31
+140,2024,8,6,Monaco,16,Charles,Leclerc,6,Ferrari,1,1,1,1,25,78,23:15.6,8595554,\N,0,\N,\N,1
+141,2024,8,6,Monaco,81,Oscar,Piastri,1,McLaren,2,2,2,2,18,78,7.152,8602706,\N,0,\N,\N,1
+142,2024,8,6,Monaco,55,Carlos,Sainz,6,Ferrari,3,3,3,3,15,78,7.585,8603139,\N,0,\N,\N,1
+143,2024,8,6,Monaco,4,Lando,Norris,1,McLaren,4,4,4,4,12,78,8.65,8604204,\N,0,\N,\N,1
+144,2024,8,6,Monaco,63,George,Russell,131,Mercedes,5,5,5,5,10,78,13.309,8608863,\N,0,\N,\N,1
+145,2024,8,6,Monaco,1,Max,Verstappen,9,Red Bull,6,6,6,6,8,78,13.853,8609407,\N,0,\N,\N,1
+146,2024,8,6,Monaco,44,Lewis,Hamilton,131,Mercedes,7,7,7,7,7,78,14.908,8610462,\N,0,\N,\N,1
+147,2024,8,6,Monaco,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,8,8,8,8,4,77,\N,\N,\N,0,\N,\N,11
+148,2024,8,6,Monaco,23,Alexander,Albon,3,Williams,9,9,9,9,2,77,\N,\N,\N,0,\N,\N,11
+149,2024,8,6,Monaco,10,Pierre,Gasly,214,Alpine F1 Team,10,10,10,10,1,77,\N,\N,\N,0,\N,\N,11
+150,2024,8,6,Monaco,14,Fernando,Alonso,117,Aston Martin,14,11,11,11,0,76,\N,\N,\N,0,\N,\N,12
+151,2024,8,6,Monaco,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,12,12,12,12,0,76,\N,\N,\N,0,\N,\N,12
+152,2024,8,6,Monaco,77,Valtteri,Bottas,15,kick Sauber,17,13,13,13,0,76,\N,\N,\N,0,\N,\N,12
+153,2024,8,6,Monaco,18,Lance,Stroll,117,Aston Martin,13,14,14,14,0,76,\N,\N,\N,0,\N,\N,12
+154,2024,8,6,Monaco,2,Logan,Sargeant,3,Williams,15,15,15,15,0,76,\N,\N,\N,0,\N,\N,12
+155,2024,8,6,Monaco,24,Guanyu,Zhou,15,kick Sauber,18,16,16,16,0,76,\N,\N,\N,0,\N,\N,12
+156,2024,8,6,Monaco,31,Esteban,Ocon,214,Alpine F1 Team,11,\N,R,17,0,0,\N,\N,\N,0,\N,\N,4
+157,2024,8,6,Monaco,11,Sergio,Perez,9,Red Bull,16,\N,R,18,0,0,\N,\N,\N,0,\N,\N,4
+158,2024,8,6,Monaco,27,Nico,Haulkenberg,210,Haas F1 Team,19,\N,R,19,0,0,\N,\N,\N,0,\N,\N,4
+159,2024,8,6,Monaco,20,Kevin,Magnussen,210,Haas F1 Team,20,\N,R,20,0,0,\N,\N,\N,0,\N,\N,4
+160,2024,9,7,Canadian ,1,Max,Verstappen,9,Red Bull,2,1,1,1,25,70,45:47.9,6347927,70,4,01:15.6,207.751,1
+161,2024,9,7,Canadian ,4,Lando,Norris,1,McLaren,3,2,2,2,18,70,3.879,6351806,67,3,01:15.6,207.782,1
+162,2024,9,7,Canadian ,63,George,Russell,131,Mercedes,1,3,3,3,15,70,4.317,6352244,70,2,01:14.9,209.621,1
+163,2024,9,7,Canadian ,44,Lewis,Hamilton,131,Mercedes,7,4,4,4,13,70,4.915,6352842,70,1,01:14.9,209.73,1
+164,2024,9,7,Canadian ,81,Oscar,Piastri,1,McLaren,4,5,5,5,10,70,10.199,6358126,65,5,01:16.2,205.904,1
+165,2024,9,7,Canadian ,14,Fernando,Alonso,117,Aston Martin,6,6,6,6,8,70,17.51,6365437,70,6,01:16.3,205.753,1
+166,2024,9,7,Canadian ,18,Lance,Stroll,117,Aston Martin,9,7,7,7,6,70,23.625,6371552,70,9,01:16.8,204.523,1
+167,2024,9,7,Canadian ,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,5,8,8,8,4,70,28.672,6376599,68,12,01:17.1,203.689,1
+168,2024,9,7,Canadian ,10,Pierre,Gasly,214,Alpine F1 Team,15,9,9,9,2,70,30.021,6377948,70,11,01:17.0,203.856,1
+169,2024,9,7,Canadian ,31,Esteban,Ocon,214,Alpine F1 Team,18,10,10,10,1,70,30.313,6378240,70,10,01:17.0,203.859,1
+170,2024,9,7,Canadian ,27,Nico,Haulkenberg,210,Haas F1 Team,17,11,11,11,0,70,30.824,6378751,67,8,01:16.7,204.733,1
+171,2024,9,7,Canadian ,20,Kevin,Magnussen,210,Haas F1 Team,14,12,12,12,0,70,31.253,6379180,68,7,01:16.5,205.226,1
+172,2024,9,7,Canadian ,77,Valtteri,Bottas,15,kick Sauber,0,13,13,13,0,70,40.487,6388414,65,13,01:17.3,203.231,1
+173,2024,9,7,Canadian ,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,8,14,14,14,0,70,52.694,6400621,70,14,01:17.3,203.075,1
+174,2024,9,7,Canadian ,24,Guanyu,Zhou,15,kick Sauber,0,15,15,15,0,69,\N,\N,68,15,01:17.3,203.033,11
+175,2024,9,7,Canadian ,55,Carlos,Sainz,6,Ferrari,12,\N,R,16,0,52,\N,\N,51,17,01:19.0,198.837,4
+176,2024,9,7,Canadian ,23,Alexander,Albon,3,Williams,10,\N,R,17,0,52,\N,\N,51,18,01:19.4,197.83,4
+177,2024,9,7,Canadian ,11,Sergio,Perez,9,Red Bull,16,\N,R,18,0,51,\N,\N,51,16,01:18.8,199.185,3
+178,2024,9,7,Canadian ,16,Charles,Leclerc,6,Ferrari,11,\N,R,19,0,40,\N,\N,39,19,01:26.0,182.528,5
+179,2024,9,7,Canadian ,2,Logan,Sargeant,3,Williams,13,\N,R,20,0,23,\N,\N,19,20,01:26.5,181.531,3
+180,2024,10,4,Spanish,1,Max,Verstappen,9,Red Bull,2,1,1,1,25,66,28:20.2,5300227,54,2,01:17.8,215.557,1
+181,2024,10,4,Spanish,4,Lando,Norris,1,McLaren,1,2,2,2,19,66,2.219,5302446,51,1,01:17.1,217.405,1
+182,2024,10,4,Spanish,44,Lewis,Hamilton,131,Mercedes,3,3,3,3,15,66,17.79,5318017,46,4,01:17.8,215.466,1
+183,2024,10,4,Spanish,63,George,Russell,131,Mercedes,4,4,4,4,12,66,22.32,5322547,50,7,01:18.3,214.142,1
+184,2024,10,4,Spanish,16,Charles,Leclerc,6,Ferrari,5,5,5,5,10,66,22.709,5322936,52,6,01:17.9,215.222,1
+185,2024,10,4,Spanish,55,Carlos,Sainz,6,Ferrari,6,6,6,6,8,66,31.028,5331255,39,9,01:18.5,213.463,1
+186,2024,10,4,Spanish,81,Oscar,Piastri,1,McLaren,9,7,7,7,6,66,33.76,5333987,56,5,01:17.9,215.286,1
+187,2024,10,4,Spanish,11,Sergio,Perez,9,Red Bull,11,8,8,8,4,66,59.524,5359751,51,3,01:17.8,215.532,1
+188,2024,10,4,Spanish,10,Pierre,Gasly,214,Alpine F1 Team,7,9,9,9,2,66,62.025,5362252,51,13,01:19.0,212.096,1
+189,2024,10,4,Spanish,31,Esteban,Ocon,214,Alpine F1 Team,8,10,10,10,1,66,71.889,5372116,54,12,01:19.0,212.266,1
+190,2024,10,4,Spanish,27,Nico,Haulkenberg,210,Haas F1 Team,13,11,11,11,0,66,79.215,5379442,49,10,01:18.6,213.273,1
+191,2024,10,4,Spanish,14,Fernando,Alonso,117,Aston Martin,10,12,12,12,0,65,\N,\N,50,8,01:18.3,214.022,11
+192,2024,10,4,Spanish,24,Guanyu,Zhou,15,kick Sauber,15,13,13,13,0,65,\N,\N,50,11,01:18.8,212.834,11
+193,2024,10,4,Spanish,18,Lance,Stroll,117,Aston Martin,14,14,14,14,0,65,\N,\N,50,15,01:19.3,211.366,11
+194,2024,10,4,Spanish,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,18,15,15,15,0,65,\N,\N,61,17,01:19.5,211.015,11
+195,2024,10,4,Spanish,77,Valtteri,Bottas,15,kick Sauber,12,16,16,16,0,65,\N,\N,13,18,01:19.6,210.596,11
+196,2024,10,4,Spanish,20,Kevin,Magnussen,210,Haas F1 Team,16,17,17,17,0,65,\N,\N,33,19,01:19.8,210.077,11
+197,2024,10,4,Spanish,23,Alexander,Albon,3,Williams,0,18,18,18,0,65,\N,\N,45,14,01:19.1,211.863,11
+198,2024,10,4,Spanish,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,17,19,19,19,0,65,\N,\N,56,16,01:19.4,211.023,11
+199,2024,10,4,Spanish,2,Logan,Sargeant,3,Williams,19,20,20,20,0,64,\N,\N,38,20,01:20.2,209.115,12
+200,2024,11,70,Austrian ,63,George,Russell,131,Mercedes,3,1,1,1,25,71,24:22.8,5062798,48,5,01:09.2,224.752,1
+201,2024,11,70,Austrian ,81,Oscar,Piastri,1,McLaren,7,2,2,2,18,71,1.906,5064704,56,4,01:08.7,226.28,1
+202,2024,11,70,Austrian ,55,Carlos,Sainz,6,Ferrari,4,3,3,3,15,71,4.533,5067331,56,6,01:09.3,224.369,1
+203,2024,11,70,Austrian ,44,Lewis,Hamilton,131,Mercedes,5,4,4,4,12,71,23.142,5085940,61,7,01:09.6,223.466,1
+204,2024,11,70,Austrian ,1,Max,Verstappen,9,Red Bull,1,5,5,5,10,71,37.253,5100051,68,2,01:07.7,229.548,1
+205,2024,11,70,Austrian ,27,Nico,Haulkenberg,210,Haas F1 Team,9,6,6,6,8,71,54.088,5116886,51,14,01:10.2,221.388,1
+206,2024,11,70,Austrian ,11,Sergio,Perez,9,Red Bull,8,7,7,7,6,71,54.672,5117470,56,11,01:09.7,223.043,1
+207,2024,11,70,Austrian ,20,Kevin,Magnussen,210,Haas F1 Team,12,8,8,8,4,71,60.355,5123153,45,12,01:10.1,221.672,1
+208,2024,11,70,Austrian ,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,11,9,9,9,2,71,61.169,5123967,49,18,01:10.4,220.725,1
+209,2024,11,70,Austrian ,10,Pierre,Gasly,214,Alpine F1 Team,13,10,10,10,1,71,61.766,5124564,45,9,01:09.6,223.315,1
+210,2024,11,70,Austrian ,16,Charles,Leclerc,6,Ferrari,6,11,11,11,0,71,67.056,5129854,55,8,01:09.6,223.396,1
+211,2024,11,70,Austrian ,31,Esteban,Ocon,214,Alpine F1 Team,10,12,12,12,0,71,68.325,5131123,45,10,01:09.6,223.187,1
+212,2024,11,70,Austrian ,18,Lance,Stroll,117,Aston Martin,17,13,13,13,0,70,\N,\N,54,13,01:10.1,221.615,11
+213,2024,11,70,Austrian ,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,14,14,14,14,0,70,\N,\N,54,15,01:10.3,221.064,11
+214,2024,11,70,Austrian ,23,Alexander,Albon,3,Williams,16,15,15,15,0,70,\N,\N,41,16,01:10.4,220.919,11
+215,2024,11,70,Austrian ,77,Valtteri,Bottas,15,kick Sauber,18,16,16,16,0,70,\N,\N,48,19,01:10.4,220.653,11
+216,2024,11,70,Austrian ,24,Guanyu,Zhou,15,kick Sauber,20,17,17,17,0,70,\N,\N,54,20,01:10.5,220.587,11
+217,2024,11,70,Austrian ,14,Fernando,Alonso,117,Aston Martin,15,18,18,18,0,70,\N,\N,70,1,01:07.7,229.633,11
+218,2024,11,70,Austrian ,2,Logan,Sargeant,3,Williams,19,19,19,19,0,69,\N,\N,60,17,01:10.4,220.788,12
+219,2024,11,70,Austrian ,4,Lando,Norris,1,McLaren,2,20,20,20,0,64,\N,\N,53,3,01:08.0,228.546,17
+220,2024,12,9,British ,44,Lewis,Hamilton,131,Mercedes,2,1,1,1,25,52,22:27.1,4947059,45,5,01:29.4,237.12,1
+221,2024,12,9,British ,1,Max,Verstappen,9,Red Bull,4,2,2,2,18,52,1.465,4948524,48,3,01:29.0,238.416,1
+222,2024,12,9,British ,4,Lando,Norris,1,McLaren,3,3,3,3,15,52,7.547,4954606,43,4,01:29.3,237.588,1
+223,2024,12,9,British ,81,Oscar,Piastri,1,McLaren,5,4,4,4,12,52,12.429,4959488,51,2,01:28.7,238.964,1
+224,2024,12,9,British ,55,Carlos,Sainz,6,Ferrari,7,5,5,5,11,52,47.318,4994377,52,1,01:28.3,240.195,1
+225,2024,12,9,British ,27,Nico,Haulkenberg,210,Haas F1 Team,6,6,6,6,8,52,55.722,5002781,43,10,01:29.8,236.07,1
+226,2024,12,9,British ,18,Lance,Stroll,117,Aston Martin,8,7,7,7,6,52,56.569,5003628,46,11,01:29.9,235.909,1
+227,2024,12,9,British ,14,Fernando,Alonso,117,Aston Martin,10,8,8,8,4,52,63.577,5010636,47,7,01:29.7,236.401,1
+228,2024,12,9,British ,23,Alexander,Albon,3,Williams,9,9,9,9,2,52,68.387,5015446,52,8,01:29.7,236.38,1
+229,2024,12,9,British ,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,13,10,10,10,1,52,79.303,5026362,43,14,01:30.2,235.041,1
+230,2024,12,9,British ,2,Logan,Sargeant,3,Williams,12,11,11,11,0,52,88.96,5036019,42,12,01:30.0,235.713,1
+231,2024,12,9,British ,20,Kevin,Magnussen,210,Haas F1 Team,17,12,12,12,0,52,90.153,5037212,42,13,01:30.1,235.396,1
+232,2024,12,9,British ,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,15,13,13,13,0,51,\N,\N,47,15,01:30.7,233.731,11
+233,2024,12,9,British ,16,Charles,Leclerc,6,Ferrari,11,14,14,14,0,51,\N,\N,43,9,01:29.7,236.301,11
+234,2024,12,9,British ,77,Valtteri,Bottas,15,kick Sauber,16,15,15,15,0,51,\N,\N,44,18,01:31.3,232.343,11
+235,2024,12,9,British ,31,Esteban,Ocon,214,Alpine F1 Team,18,16,16,16,0,50,\N,\N,46,16,01:30.9,233.371,12
+236,2024,12,9,British ,11,Sergio,Perez,9,Red Bull,0,17,17,17,0,50,\N,\N,50,6,01:29.7,236.409,12
+237,2024,12,9,British ,24,Guanyu,Zhou,15,kick Sauber,14,18,18,18,0,50,\N,\N,43,17,01:31.0,233.014,12
+238,2024,12,9,British ,63,George,Russell,131,Mercedes,1,\N,R,19,0,33,\N,\N,3,19,01:31.3,232.289,34
+239,2024,12,9,British ,10,Pierre,Gasly,214,Alpine F1 Team,19,\N,W,20,0,0,\N,\N,\N,0,\N,\N,6
+240,2024,13,11,Hungarian,81,Oscar,Piastri,1,McLaren,2,1,1,1,25,70,38:02.0,5881989,51,8,01:21.7,193.005,1
+241,2024,13,11,Hungarian,4,Lando,Norris,1,McLaren,1,2,2,2,18,70,2.141,5884130,50,7,01:21.7,193.014,1
+242,2024,13,11,Hungarian,44,Lewis,Hamilton,131,Mercedes,5,3,3,3,15,70,14.88,5896869,54,9,01:22.2,191.978,1
+243,2024,13,11,Hungarian,16,Charles,Leclerc,6,Ferrari,6,4,4,4,12,70,19.686,5901675,29,10,01:22.2,191.91,1
+244,2024,13,11,Hungarian,1,Max,Verstappen,9,Red Bull,3,5,5,5,10,70,21.349,5903338,51,3,01:20.9,194.932,1
+245,2024,13,11,Hungarian,55,Carlos,Sainz,6,Ferrari,4,6,6,6,8,70,23.073,5905062,53,5,01:21.4,193.656,1
+246,2024,13,11,Hungarian,11,Sergio,Perez,9,Red Bull,16,7,7,7,6,70,39.792,5921781,49,4,01:21.1,194.48,1
+247,2024,13,11,Hungarian,63,George,Russell,131,Mercedes,17,8,8,8,5,70,42.368,5924357,55,1,01:20.3,196.396,1
+248,2024,13,11,Hungarian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,10,9,9,9,2,70,77.259,5959248,57,18,01:23.5,188.806,1
+249,2024,13,11,Hungarian,18,Lance,Stroll,117,Aston Martin,8,10,10,10,1,70,77.976,5959965,48,11,01:22.3,191.547,1
+250,2024,13,11,Hungarian,14,Fernando,Alonso,117,Aston Martin,7,11,11,11,0,70,82.46,5964449,52,14,01:23.1,189.875,1
+251,2024,13,11,Hungarian,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,9,12,12,12,0,69,\N,\N,30,12,01:22.6,190.847,11
+252,2024,13,11,Hungarian,27,Nico,Haulkenberg,210,Haas F1 Team,11,13,13,13,0,69,\N,\N,54,16,01:23.5,188.969,11
+253,2024,13,11,Hungarian,23,Alexander,Albon,3,Williams,13,14,14,14,0,69,\N,\N,31,20,01:23.9,187.913,11
+254,2024,13,11,Hungarian,20,Kevin,Magnussen,210,Haas F1 Team,15,15,15,15,0,69,\N,\N,50,19,01:23.6,188.761,11
+255,2024,13,11,Hungarian,77,Valtteri,Bottas,15,kick Sauber,12,16,16,16,0,69,\N,\N,52,13,01:22.8,190.496,11
+256,2024,13,11,Hungarian,2,Logan,Sargeant,3,Williams,14,17,17,17,0,69,\N,\N,65,2,01:20.6,195.772,11
+257,2024,13,11,Hungarian,31,Esteban,Ocon,214,Alpine F1 Team,19,18,18,18,0,69,\N,\N,66,6,01:21.6,193.255,11
+258,2024,13,11,Hungarian,24,Guanyu,Zhou,15,kick Sauber,18,19,19,19,0,69,\N,\N,38,17,01:23.5,188.91,11
+259,2024,13,11,Hungarian,10,Pierre,Gasly,214,Alpine F1 Team,0,\N,R,20,0,33,\N,\N,31,15,01:23.3,189.244,9
+260,2024,14,13,Belgian,44,Lewis,Hamilton,131,Mercedes,3,1,1,1,25,44,0.526,4797566,33,6,01:46.7,236.415,1
+261,2024,14,13,Belgian,81,Oscar,Piastri,1,McLaren,5,2,2,2,18,44,1.173,4798213,32,3,01:45.8,238.231,1
+262,2024,14,13,Belgian,16,Charles,Leclerc,6,Ferrari,1,3,3,3,15,44,8.549,4805589,33,8,01:47.0,235.619,1
+263,2024,14,13,Belgian,1,Max,Verstappen,9,Red Bull,11,4,4,4,12,44,9.226,4806266,32,4,01:46.1,237.584,1
+264,2024,14,13,Belgian,4,Lando,Norris,1,McLaren,4,5,5,5,10,44,9.85,4806890,31,2,01:45.6,238.856,1
+265,2024,14,13,Belgian,55,Carlos,Sainz,6,Ferrari,7,6,6,6,8,44,19.795,4816835,44,5,01:46.4,237.057,1
+266,2024,14,13,Belgian,11,Sergio,Perez,9,Red Bull,2,7,7,7,7,44,43.195,4840235,44,1,01:44.7,240.822,1
+267,2024,14,13,Belgian,14,Fernando,Alonso,117,Aston Martin,8,8,8,8,4,44,49.963,4847003,42,17,01:48.1,233.356,1
+268,2024,14,13,Belgian,31,Esteban,Ocon,214,Alpine F1 Team,9,9,9,9,2,44,52.552,4849592,43,7,01:47.0,235.743,1
+269,2024,14,13,Belgian,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,13,10,10,10,1,44,54.926,4851966,37,12,01:47.4,234.694,1
+270,2024,14,13,Belgian,18,Lance,Stroll,117,Aston Martin,15,11,11,11,0,44,63.011,4860051,44,18,01:48.1,233.239,1
+271,2024,14,13,Belgian,23,Alexander,Albon,3,Williams,10,12,12,12,0,44,63.651,4860691,44,16,01:48.0,233.475,1
+272,2024,14,13,Belgian,10,Pierre,Gasly,214,Alpine F1 Team,12,13,13,13,0,44,64.365,4861405,30,11,01:47.4,234.731,1
+273,2024,14,13,Belgian,20,Kevin,Magnussen,210,Haas F1 Team,17,14,14,14,0,44,66.631,4863671,44,14,01:47.8,233.795,1
+274,2024,14,13,Belgian,77,Valtteri,Bottas,15,kick Sauber,14,15,15,15,0,44,70.638,4867678,37,9,01:47.0,235.606,1
+275,2024,14,13,Belgian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,20,16,16,16,0,44,76.737,4873777,44,15,01:48.0,233.533,1
+276,2024,14,13,Belgian,2,Logan,Sargeant,3,Williams,18,17,17,17,0,44,86.057,4883097,43,13,01:47.5,234.574,1
+277,2024,14,13,Belgian,27,Nico,Haulkenberg,210,Haas F1 Team,16,18,18,18,0,44,88.833,4885873,44,19,01:49.0,231.422,1
+278,2024,14,13,Belgian,24,Guanyu,Zhou,15,kick Sauber,19,\N,R,19,0,5,\N,\N,2,20,01:52.1,224.929,31
+279,2024,14,13,Belgian,63,George,Russell,131,Mercedes,6,\N,D,20,0,44,19:57.0,4797040,44,10,01:47.1,235.399,2
+280,2024,15,39,Dutch,4,Lando,Norris,1,McLaren,1,1,1,1,26,72,30:45.5,5445519,72,1,01:13.8,207.708,1
+281,2024,15,39,Dutch,1,Max,Verstappen,9,Red Bull,2,2,2,2,18,72,22.896,5468415,30,9,01:14.8,205.11,1
+282,2024,15,39,Dutch,16,Charles,Leclerc,6,Ferrari,6,3,3,3,15,72,25.439,5470958,62,7,01:14.6,205.569,1
+283,2024,15,39,Dutch,81,Oscar,Piastri,1,McLaren,3,4,4,4,12,72,27.337,5472856,36,5,01:14.2,206.533,1
+284,2024,15,39,Dutch,55,Carlos,Sainz,6,Ferrari,10,5,5,5,10,72,32.137,5477656,40,4,01:14.1,206.867,1
+285,2024,15,39,Dutch,11,Sergio,Perez,9,Red Bull,5,6,6,6,8,72,39.542,5485061,69,8,01:14.6,205.563,1
+286,2024,15,39,Dutch,63,George,Russell,131,Mercedes,4,7,7,7,6,72,44.617,5490136,57,3,01:13.9,207.399,1
+287,2024,15,39,Dutch,44,Lewis,Hamilton,131,Mercedes,14,8,8,8,4,72,49.599,5495118,62,2,01:13.9,207.536,1
+288,2024,15,39,Dutch,10,Pierre,Gasly,214,Alpine F1 Team,9,9,9,9,2,71,\N,\N,54,11,01:14.9,204.828,11
+289,2024,15,39,Dutch,14,Fernando,Alonso,117,Aston Martin,7,10,10,10,1,71,\N,\N,34,10,01:14.8,205.093,11
+290,2024,15,39,Dutch,27,Nico,Haulkenberg,210,Haas F1 Team,12,11,11,11,0,71,\N,\N,59,18,01:15.7,202.656,11
+291,2024,15,39,Dutch,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,13,12,12,12,0,71,\N,\N,52,13,01:15.2,203.828,11
+292,2024,15,39,Dutch,18,Lance,Stroll,117,Aston Martin,8,13,13,13,0,71,\N,\N,51,14,01:15.3,203.739,11
+293,2024,15,39,Dutch,23,Alexander,Albon,3,Williams,19,14,14,14,0,71,\N,\N,71,6,01:14.4,205.986,11
+294,2024,15,39,Dutch,31,Esteban,Ocon,214,Alpine F1 Team,15,15,15,15,0,71,\N,\N,50,15,01:15.4,203.374,11
+295,2024,15,39,Dutch,2,Logan,Sargeant,3,Williams,18,16,16,16,0,71,\N,\N,26,16,01:15.5,202.973,11
+296,2024,15,39,Dutch,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,11,17,17,17,0,71,\N,\N,16,17,01:15.6,202.938,11
+297,2024,15,39,Dutch,20,Kevin,Magnussen,210,Haas F1 Team,0,18,18,18,0,71,\N,\N,42,12,01:15.0,204.557,11
+298,2024,15,39,Dutch,77,Valtteri,Bottas,15,kick Sauber,16,19,19,19,0,70,\N,\N,45,20,01:15.8,202.215,12
+299,2024,15,39,Dutch,24,Guanyu,Zhou,15,kick Sauber,17,20,20,20,0,70,\N,\N,67,19,01:15.7,202.477,12
+300,2024,16,14,Italian,16,Charles,Leclerc,6,Ferrari,4,1,1,1,25,53,14:40.7,4480727,33,10,01:23.2,250.58,1
+301,2024,16,14,Italian,81,Oscar,Piastri,1,McLaren,2,2,2,2,18,53,2.664,4483391,53,4,01:21.9,254.503,1
+302,2024,16,14,Italian,4,Lando,Norris,1,McLaren,1,3,3,3,16,53,6.153,4486880,53,1,01:21.4,256.1,1
+303,2024,16,14,Italian,55,Carlos,Sainz,6,Ferrari,5,4,4,4,12,53,15.621,4496348,53,9,01:23.2,250.601,1
+304,2024,16,14,Italian,44,Lewis,Hamilton,131,Mercedes,6,5,5,5,10,53,22.82,4503547,53,2,01:21.5,255.849,1
+305,2024,16,14,Italian,1,Max,Verstappen,9,Red Bull,7,6,6,6,8,53,37.932,4518659,43,3,01:21.7,255.12,1
+306,2024,16,14,Italian,63,George,Russell,131,Mercedes,3,7,7,7,6,53,39.715,4520442,49,5,01:22.0,254.215,1
+307,2024,16,14,Italian,11,Sergio,Perez,9,Red Bull,8,8,8,8,4,53,54.148,4534875,47,8,01:23.0,251.35,1
+308,2024,16,14,Italian,23,Alexander,Albon,3,Williams,9,9,9,9,2,53,67.456,4548183,53,16,01:23.9,248.514,1
+309,2024,16,14,Italian,20,Kevin,Magnussen,210,Haas F1 Team,13,10,10,10,1,53,68.302,4549029,51,12,01:23.4,249.946,1
+310,2024,16,14,Italian,14,Fernando,Alonso,117,Aston Martin,11,11,11,11,0,53,68.495,4549222,46,7,01:22.9,251.432,1
+311,2024,16,14,Italian,43,Franco,Colapinto,3,Williams,18,12,12,12,0,53,81.308,4562035,53,14,01:23.7,249.077,1
+312,2024,16,14,Italian,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,12,13,13,13,0,53,93.452,4574179,52,17,01:24.2,247.625,1
+313,2024,16,14,Italian,31,Esteban,Ocon,214,Alpine F1 Team,15,14,14,14,0,52,\N,\N,52,18,01:24.3,247.261,11
+314,2024,16,14,Italian,10,Pierre,Gasly,214,Alpine F1 Team,14,15,15,15,0,52,\N,\N,51,15,01:23.8,248.997,11
+315,2024,16,14,Italian,77,Valtteri,Bottas,15,kick Sauber,19,16,16,16,0,52,\N,\N,52,13,01:23.6,249.432,11
+316,2024,16,14,Italian,27,Nico,Haulkenberg,210,Haas F1 Team,10,17,17,17,0,52,\N,\N,44,11,01:23.3,250.432,11
+317,2024,16,14,Italian,24,Guanyu,Zhou,15,kick Sauber,20,18,18,18,0,52,\N,\N,17,19,01:25.1,245.085,11
+318,2024,16,14,Italian,18,Lance,Stroll,117,Aston Martin,17,19,19,19,0,52,\N,\N,52,6,01:22.2,253.609,11
+319,2024,16,14,Italian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,16,\N,R,20,0,7,\N,\N,4,20,01:26.2,241.94,25
+320,2024,17,73,Azerbaijan,81,Oscar,Piastri,1,McLaren,2,1,1,1,25,51,32:58.0,5578007,47,9,01:47.1,201.856,1
+321,2024,17,73,Azerbaijan,16,Charles,Leclerc,6,Ferrari,1,2,2,2,18,51,10.91,5588917,44,10,01:47.1,201.843,1
+322,2024,17,73,Azerbaijan,63,George,Russell,131,Mercedes,5,3,3,3,15,51,31.328,5609335,45,2,01:46.6,202.674,1
+323,2024,17,73,Azerbaijan,4,Lando,Norris,1,McLaren,15,4,4,4,13,51,36.143,5614150,42,1,01:45.3,205.318,1
+324,2024,17,73,Azerbaijan,1,Max,Verstappen,9,Red Bull,6,5,5,5,10,51,77.098,5655105,42,3,01:46.8,202.352,1
+325,2024,17,73,Azerbaijan,14,Fernando,Alonso,117,Aston Martin,7,6,6,6,8,51,85.468,5663475,48,8,01:47.1,201.862,1
+326,2024,17,73,Azerbaijan,23,Alexander,Albon,3,Williams,9,7,7,7,6,51,87.396,5665403,43,5,01:46.9,202.07,1
+327,2024,17,73,Azerbaijan,43,Franco,Colapinto,3,Williams,8,8,8,8,4,51,89.541,5667548,44,12,01:47.3,201.454,1
+328,2024,17,73,Azerbaijan,44,Lewis,Hamilton,131,Mercedes,0,9,9,9,2,51,92.401,5670408,48,11,01:47.2,201.525,1
+329,2024,17,73,Azerbaijan,50,Oliver,Bearman,210,Haas F1 Team,10,10,10,10,1,51,93.127,5671134,47,7,01:47.0,201.879,1
+330,2024,17,73,Azerbaijan,27,Nico,Haulkenberg,210,Haas F1 Team,12,11,11,11,0,51,93.465,5671472,42,14,01:47.7,200.674,1
+331,2024,17,73,Azerbaijan,10,Pierre,Gasly,214,Alpine F1 Team,18,12,12,12,0,51,117.189,5695196,47,15,01:48.0,200.066,1
+332,2024,17,73,Azerbaijan,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,14,13,13,13,0,51,146.907,5724914,39,17,01:48.4,199.398,1
+333,2024,17,73,Azerbaijan,24,Guanyu,Zhou,15,kick Sauber,17,14,14,14,0,51,148.841,5726848,43,13,01:47.6,200.761,1
+334,2024,17,73,Azerbaijan,31,Esteban,Ocon,214,Alpine F1 Team,0,15,15,15,0,50,\N,\N,35,19,01:48.8,198.572,11
+335,2024,17,73,Azerbaijan,77,Valtteri,Bottas,15,kick Sauber,16,16,16,16,0,50,\N,\N,41,18,01:48.4,199.328,11
+336,2024,17,73,Azerbaijan,11,Sergio,Perez,9,Red Bull,4,17,17,17,0,49,\N,\N,46,6,01:47.0,201.945,31
+337,2024,17,73,Azerbaijan,55,Carlos,Sainz,6,Ferrari,3,18,18,18,0,49,\N,\N,46,4,01:46.9,202.223,31
+338,2024,17,73,Azerbaijan,18,Lance,Stroll,117,Aston Martin,13,19,19,19,0,45,\N,\N,31,16,01:48.1,199.826,31
+339,2024,17,73,Azerbaijan,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,11,\N,R,20,0,14,\N,\N,8,20,01:50.9,194.89,31
+340,2024,18,15,Singapore,4,Lando,Norris,1,McLaren,1,1,1,1,25,62,40:52.6,6052571,48,2,01:34.9,187.347,1
+341,2024,18,15,Singapore,1,Max,Verstappen,9,Red Bull,2,2,2,2,18,62,20.945,6073516,59,5,01:36.0,185.313,1
+342,2024,18,15,Singapore,81,Oscar,Piastri,1,McLaren,5,3,3,3,15,62,41.823,6094394,48,4,01:35.7,185.743,1
+343,2024,18,15,Singapore,63,George,Russell,131,Mercedes,4,4,4,4,12,62,61.04,6113611,30,10,01:37.0,183.251,1
+344,2024,18,15,Singapore,16,Charles,Leclerc,6,Ferrari,9,5,5,5,10,62,62.43,6115001,46,3,01:35.4,186.471,1
+345,2024,18,15,Singapore,44,Lewis,Hamilton,131,Mercedes,3,6,6,6,8,62,85.248,6137819,43,12,01:37.4,182.6,1
+346,2024,18,15,Singapore,55,Carlos,Sainz,6,Ferrari,10,7,7,7,6,62,96.039,6148610,15,7,01:36.6,184.173,1
+347,2024,18,15,Singapore,14,Fernando,Alonso,117,Aston Martin,7,8,8,8,4,61,\N,\N,54,18,01:37.7,181.95,11
+348,2024,18,15,Singapore,27,Nico,Haulkenberg,210,Haas F1 Team,6,9,9,9,2,61,\N,\N,35,15,01:37.5,182.456,11
+349,2024,18,15,Singapore,11,Sergio,Perez,9,Red Bull,13,10,10,10,1,61,\N,\N,33,16,01:37.5,182.443,11
+350,2024,18,15,Singapore,43,Franco,Colapinto,3,Williams,12,11,11,11,0,61,\N,\N,35,11,01:37.3,182.846,11
+351,2024,18,15,Singapore,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,8,12,12,12,0,61,\N,\N,53,6,01:36.4,184.494,11
+352,2024,18,15,Singapore,31,Esteban,Ocon,214,Alpine F1 Team,15,13,13,13,0,61,\N,\N,48,20,01:38.0,181.536,11
+353,2024,18,15,Singapore,18,Lance,Stroll,117,Aston Martin,17,14,14,14,0,61,\N,\N,36,19,01:37.9,181.745,11
+354,2024,18,15,Singapore,24,Guanyu,Zhou,15,kick Sauber,20,15,15,15,0,61,\N,\N,47,14,01:37.5,182.472,11
+355,2024,18,15,Singapore,77,Valtteri,Bottas,15,kick Sauber,19,16,16,16,0,61,\N,\N,46,17,01:37.5,182.355,11
+356,2024,18,15,Singapore,10,Pierre,Gasly,214,Alpine F1 Team,18,17,17,17,0,61,\N,\N,46,9,01:36.9,183.478,11
+357,2024,18,15,Singapore,3,Daniel,Ricciardo,215,Racing Bulls F1 Team,16,18,18,18,0,61,\N,\N,60,1,01:34.5,188.218,11
+358,2024,18,15,Singapore,20,Kevin,Magnussen,210,Haas F1 Team,14,19,19,19,0,57,\N,\N,52,13,01:37.4,182.54,3
+359,2024,18,15,Singapore,23,Alexander,Albon,3,Williams,11,\N,R,20,0,15,\N,\N,13,8,01:36.9,183.552,131
+360,2024,19,69,United States,16,Charles,Leclerc,6,Ferrari,4,1,1,1,25,56,35:09.6,5709639,39,6,01:37.8,202.861,1
+361,2024,19,69,United States,55,Carlos,Sainz,6,Ferrari,3,2,2,2,18,56,8.562,5718201,42,5,01:37.8,203.009,1
+362,2024,19,69,United States,1,Max,Verstappen,9,Red Bull,2,3,3,3,15,56,19.412,5729051,42,9,01:38.1,202.276,1
+363,2024,19,69,United States,4,Lando,Norris,1,McLaren,1,4,4,4,12,56,20.354,5729993,55,4,01:37.7,203.183,1
+364,2024,19,69,United States,81,Oscar,Piastri,1,McLaren,5,5,5,5,10,56,21.921,5731560,42,7,01:37.9,202.76,1
+365,2024,19,69,United States,63,George,Russell,131,Mercedes,20,6,6,6,8,56,56.295,5765934,42,3,01:37.7,203.231,1
+366,2024,19,69,United States,11,Sergio,Perez,9,Red Bull,9,7,7,7,6,56,59.072,5768711,45,13,01:38.5,201.461,1
+367,2024,19,69,United States,27,Nico,Haulkenberg,210,Haas F1 Team,11,8,8,8,4,56,62.957,5772596,51,12,01:38.4,201.686,1
+368,2024,19,69,United States,30,Liam,Lawson,215,Racing Bulls F1 Team,19,9,9,9,2,56,70.563,5780202,54,8,01:38.1,202.33,1
+369,2024,19,69,United States,43,Franco,Colapinto,3,Williams,15,10,10,10,1,56,71.979,5781618,46,2,01:37.6,203.325,1
+370,2024,19,69,United States,20,Kevin,Magnussen,210,Haas F1 Team,8,11,11,11,0,56,79.782,5789421,56,10,01:38.2,202.085,1
+371,2024,19,69,United States,10,Pierre,Gasly,214,Alpine F1 Team,6,12,12,12,0,56,90.558,5800197,55,11,01:38.3,201.877,1
+372,2024,19,69,United States,14,Fernando,Alonso,117,Aston Martin,7,13,13,13,0,55,\N,\N,52,17,01:39.3,199.945,11
+373,2024,19,69,United States,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,10,14,14,14,0,55,\N,\N,54,15,01:39.2,200.082,11
+374,2024,19,69,United States,18,Lance,Stroll,117,Aston Martin,13,15,15,15,0,55,\N,\N,54,16,01:39.2,200.04,11
+375,2024,19,69,United States,23,Alexander,Albon,3,Williams,14,16,16,16,0,55,\N,\N,54,14,01:39.1,200.302,11
+376,2024,19,69,United States,77,Valtteri,Bottas,15,kick Sauber,16,17,17,17,0,55,\N,\N,53,19,01:40.6,197.333,11
+377,2024,19,69,United States,31,Esteban,Ocon,214,Alpine F1 Team,12,18,18,18,0,55,\N,\N,53,1,01:37.3,203.912,11
+378,2024,19,69,United States,24,Guanyu,Zhou,15,kick Sauber,18,19,19,19,0,55,\N,\N,53,18,01:39.3,199.923,11
+379,2024,19,69,United States,44,Lewis,Hamilton,131,Mercedes,17,\N,R,20,0,1,\N,\N,\N,0,\N,\N,20
+380,2024,20,32,Mexico City,55,Carlos,Sainz,6,Ferrari,1,1,1,1,25,71,40:55.8,6055800,62,7,01:20.1,193.348,1
+381,2024,20,32,Mexico City,4,Lando,Norris,1,McLaren,3,2,2,2,18,71,4.705,6060505,68,4,01:19.7,194.43,1
+382,2024,20,32,Mexico City,16,Charles,Leclerc,6,Ferrari,4,3,3,3,16,71,34.387,6090187,71,1,01:18.3,197.794,1
+383,2024,20,32,Mexico City,44,Lewis,Hamilton,131,Mercedes,6,4,4,4,12,71,44.78,6100580,31,8,01:20.4,192.785,1
+384,2024,20,32,Mexico City,63,George,Russell,131,Mercedes,5,5,5,5,10,71,48.536,6104336,63,11,01:20.7,191.926,1
+385,2024,20,32,Mexico City,1,Max,Verstappen,9,Red Bull,2,6,6,6,8,71,59.558,6115358,53,13,01:20.9,191.591,1
+386,2024,20,32,Mexico City,20,Kevin,Magnussen,210,Haas F1 Team,7,7,7,7,6,71,63.642,6119442,61,9,01:20.6,192.15,1
+387,2024,20,32,Mexico City,81,Oscar,Piastri,1,McLaren,17,8,8,8,4,71,64.928,6120728,65,5,01:20.1,193.525,1
+388,2024,20,32,Mexico City,27,Nico,Haulkenberg,210,Haas F1 Team,10,9,9,9,2,70,\N,\N,69,12,01:20.7,191.885,11
+389,2024,20,32,Mexico City,10,Pierre,Gasly,214,Alpine F1 Team,8,10,10,10,1,70,\N,\N,67,15,01:21.3,190.643,11
+390,2024,20,32,Mexico City,18,Lance,Stroll,117,Aston Martin,14,11,11,11,0,70,\N,\N,55,16,01:21.3,190.557,11
+391,2024,20,32,Mexico City,43,Franco,Colapinto,3,Williams,16,12,12,12,0,70,\N,\N,50,6,01:20.1,193.462,11
+392,2024,20,32,Mexico City,31,Esteban,Ocon,214,Alpine F1 Team,0,13,13,13,0,70,\N,\N,70,10,01:20.7,192.097,11
+393,2024,20,32,Mexico City,77,Valtteri,Bottas,15,kick Sauber,15,14,14,14,0,70,\N,\N,57,14,01:21.1,191.088,11
+394,2024,20,32,Mexico City,24,Guanyu,Zhou,15,kick Sauber,19,15,15,15,0,70,\N,\N,56,17,01:21.6,189.991,11
+395,2024,20,32,Mexico City,30,Liam,Lawson,215,Racing Bulls F1 Team,12,16,16,16,0,70,\N,\N,67,3,01:19.5,194.893,11
+396,2024,20,32,Mexico City,11,Sergio,Perez,9,Red Bull,18,17,17,17,0,70,\N,\N,70,2,01:19.2,195.614,11
+397,2024,20,32,Mexico City,14,Fernando,Alonso,117,Aston Martin,13,\N,R,18,0,15,\N,\N,7,18,01:22.7,187.306,23
+398,2024,20,32,Mexico City,23,Alexander,Albon,3,Williams,9,\N,R,19,0,0,\N,\N,\N,0,\N,\N,4
+399,2024,20,32,Mexico City,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,11,\N,R,20,0,0,\N,\N,\N,0,\N,\N,4
+400,2024,21,18,Sao Paulo,1,Max,Verstappen,9,Red Bull,17,1,1,1,26,69,06:54.4,7614430,67,1,01:20.5,192.767,1
+401,2024,21,18,Sao Paulo,31,Esteban,Ocon,214,Alpine F1 Team,4,2,2,2,18,69,19.477,7633907,64,7,01:21.8,189.705,1
+402,2024,21,18,Sao Paulo,10,Pierre,Gasly,214,Alpine F1 Team,13,3,3,3,15,69,22.532,7636962,66,5,01:21.6,189.998,1
+403,2024,21,18,Sao Paulo,63,George,Russell,131,Mercedes,2,4,4,4,12,69,23.265,7637695,66,6,01:21.6,189.998,1
+404,2024,21,18,Sao Paulo,16,Charles,Leclerc,6,Ferrari,6,5,5,5,10,69,30.177,7644607,60,4,01:21.6,190.03,1
+405,2024,21,18,Sao Paulo,4,Lando,Norris,1,McLaren,1,6,6,6,8,69,31.372,7645802,67,2,01:21.5,190.296,1
+406,2024,21,18,Sao Paulo,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,3,7,7,7,6,69,42.056,7656486,69,8,01:21.8,189.573,1
+407,2024,21,18,Sao Paulo,81,Oscar,Piastri,1,McLaren,8,8,8,8,4,69,44.943,7659373,69,3,01:21.5,190.261,1
+408,2024,21,18,Sao Paulo,30,Liam,Lawson,215,Racing Bulls F1 Team,5,9,9,9,2,69,50.452,7664882,67,10,01:22.1,188.892,1
+409,2024,21,18,Sao Paulo,44,Lewis,Hamilton,131,Mercedes,14,10,10,10,1,69,50.753,7665183,69,9,01:22.0,189.081,1
+410,2024,21,18,Sao Paulo,11,Sergio,Perez,9,Red Bull,12,11,11,11,0,69,51.531,7665961,67,11,01:22.1,188.846,1
+411,2024,21,18,Sao Paulo,50,Oliver,Bearman,210,Haas F1 Team,15,12,12,12,0,69,57.085,7671515,64,13,01:22.5,188.042,1
+412,2024,21,18,Sao Paulo,77,Valtteri,Bottas,15,kick Sauber,11,13,13,13,0,69,63.588,7678018,67,14,01:22.9,187.173,1
+413,2024,21,18,Sao Paulo,14,Fernando,Alonso,117,Aston Martin,9,14,14,14,0,69,78.049,7692479,59,12,01:22.3,188.502,1
+414,2024,21,18,Sao Paulo,24,Guanyu,Zhou,15,kick Sauber,19,15,15,15,0,69,79.649,7694079,65,15,01:23.1,186.765,1
+415,2024,21,18,Sao Paulo,55,Carlos,Sainz,6,Ferrari,0,\N,R,16,0,38,\N,\N,19,17,01:24.2,184.23,3
+416,2024,21,18,Sao Paulo,43,Franco,Colapinto,3,Williams,16,\N,R,17,0,30,\N,\N,21,18,01:24.3,184.022,3
+417,2024,21,18,Sao Paulo,23,Alexander,Albon,3,Williams,7,\N,W,18,0,0,\N,\N,\N,0,\N,\N,54
+418,2024,21,18,Sao Paulo,18,Lance,Stroll,117,Aston Martin,10,\N,W,19,0,0,\N,\N,\N,0,\N,\N,54
+419,2024,21,18,Sao Paulo,27,Nico,Haulkenberg,210,Haas F1 Team,17,\N,D,20,0,0,\N,\N,21,16,01:23.8,185.191,2
+420,2024,22,80,Las Vegas,63,George,Russell,131,Mercedes,1,1,1,1,25,50,22:06.0,4925969,46,4,01:35.7,233.225,1
+421,2024,22,80,Las Vegas,44,Lewis,Hamilton,131,Mercedes,10,2,2,2,18,50,7.313,4933282,41,2,01:35.5,233.803,1
+422,2024,22,80,Las Vegas,55,Carlos,Sainz,6,Ferrari,2,3,3,3,15,50,11.906,4937875,44,5,01:35.9,232.84,1
+423,2024,22,80,Las Vegas,16,Charles,Leclerc,6,Ferrari,4,4,4,4,12,50,14.283,4940252,40,3,01:35.7,233.329,1
+424,2024,22,80,Las Vegas,1,Max,Verstappen,9,Red Bull,5,5,5,5,10,50,16.582,4942551,43,6,01:36.2,231.938,1
+425,2024,22,80,Las Vegas,4,Lando,Norris,1,McLaren,6,6,6,6,9,50,43.385,4969354,50,1,01:34.9,235.292,1
+426,2024,22,80,Las Vegas,81,Oscar,Piastri,1,McLaren,8,7,7,7,6,50,51.365,4977334,44,13,01:36.6,231.097,1
+427,2024,22,80,Las Vegas,27,Nico,Haulkenberg,210,Haas F1 Team,9,8,8,8,4,50,59.808,4985777,48,12,01:36.6,231.129,1
+428,2024,22,80,Las Vegas,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,7,9,9,9,2,50,62.808,4988777,48,16,01:37.0,230.242,1
+429,2024,22,80,Las Vegas,11,Sergio,Perez,9,Red Bull,15,10,10,10,1,50,63.114,4989083,42,8,01:36.3,231.75,1
+430,2024,22,80,Las Vegas,14,Fernando,Alonso,117,Aston Martin,16,11,11,11,0,50,69.195,4995164,39,10,01:36.6,231.205,1
+431,2024,22,80,Las Vegas,20,Kevin,Magnussen,210,Haas F1 Team,12,12,12,12,0,50,69.803,4995772,49,11,01:36.6,231.196,1
+432,2024,22,80,Las Vegas,24,Guanyu,Zhou,15,kick Sauber,13,13,13,13,0,50,74.085,5000054,46,7,01:36.3,231.755,1
+433,2024,22,80,Las Vegas,43,Franco,Colapinto,3,Williams,0,14,14,14,0,50,75.172,5001141,37,15,01:36.9,230.456,1
+434,2024,22,80,Las Vegas,18,Lance,Stroll,117,Aston Martin,18,15,15,15,0,50,84.102,5010071,43,18,01:37.2,229.716,1
+435,2024,22,80,Las Vegas,30,Liam,Lawson,215,Racing Bulls F1 Team,14,16,16,16,0,50,91.005,5016974,45,17,01:37.0,230.187,1
+436,2024,22,80,Las Vegas,31,Esteban,Ocon,214,Alpine F1 Team,11,17,17,17,0,49,\N,\N,47,9,01:36.5,231.306,11
+437,2024,22,80,Las Vegas,77,Valtteri,Bottas,15,kick Sauber,19,18,18,18,0,49,\N,\N,46,14,01:36.6,231.09,11
+438,2024,22,80,Las Vegas,23,Alexander,Albon,3,Williams,17,\N,R,19,0,25,\N,\N,21,19,01:38.0,227.773,21
+439,2024,22,80,Las Vegas,10,Pierre,Gasly,214,Alpine F1 Team,3,\N,R,20,0,15,\N,\N,13,20,01:38.3,227.064,5
+440,2024,23,78,Qatar,1,Max,Verstappen,9,Red Bull,2,1,1,1,25,57,31:05.3,5465323,55,2,01:22.9,235.31,1
+441,2024,23,78,Qatar,16,Charles,Leclerc,6,Ferrari,5,2,2,2,18,57,6.031,5471354,53,4,01:23.2,234.357,1
+442,2024,23,78,Qatar,81,Oscar,Piastri,1,McLaren,4,3,3,3,15,57,6.819,5472142,51,3,01:23.2,234.425,1
+443,2024,23,78,Qatar,63,George,Russell,131,Mercedes,1,4,4,4,12,57,14.104,5479427,50,5,01:23.4,234.039,1
+444,2024,23,78,Qatar,10,Pierre,Gasly,214,Alpine F1 Team,11,5,5,5,10,57,16.782,5482105,56,8,01:23.7,233.061,1
+445,2024,23,78,Qatar,55,Carlos,Sainz,6,Ferrari,7,6,6,6,8,57,17.476,5482799,52,6,01:23.5,233.731,1
+446,2024,23,78,Qatar,14,Fernando,Alonso,117,Aston Martin,8,7,7,7,6,57,19.867,5485190,57,7,01:23.7,233.167,1
+447,2024,23,78,Qatar,24,Guanyu,Zhou,15,kick Sauber,12,8,8,8,4,57,25.36,5490683,57,10,01:23.9,232.55,1
+448,2024,23,78,Qatar,20,Kevin,Magnussen,210,Haas F1 Team,10,9,9,9,2,57,32.177,5497500,55,11,01:24.3,231.528,1
+449,2024,23,78,Qatar,4,Lando,Norris,1,McLaren,3,10,10,10,2,57,35.762,5501085,56,1,01:22.4,236.798,1
+450,2024,23,78,Qatar,77,Valtteri,Bottas,15,kick Sauber,13,11,11,11,0,57,50.243,5515566,53,13,01:25.5,228.08,1
+451,2024,23,78,Qatar,44,Lewis,Hamilton,131,Mercedes,6,12,12,12,0,57,56.122,5521445,52,9,01:23.9,232.616,1
+452,2024,23,78,Qatar,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,14,13,13,13,0,57,61.1,5526423,47,17,01:26.1,226.462,1
+453,2024,23,78,Qatar,30,Liam,Lawson,215,Racing Bulls F1 Team,17,14,14,14,0,57,62.656,5527979,46,16,01:26.1,226.641,1
+454,2024,23,78,Qatar,23,Alexander,Albon,3,Williams,16,15,15,15,0,56,\N,\N,47,14,01:25.6,228.011,11
+455,2024,23,78,Qatar,27,Nico,Haulkenberg,210,Haas F1 Team,18,\N,R,16,0,39,\N,\N,33,15,01:25.8,227.458,20
+456,2024,23,78,Qatar,11,Sergio,Perez,9,Red Bull,9,\N,R,17,0,38,\N,\N,31,12,01:25.3,228.735,20
+457,2024,23,78,Qatar,18,Lance,Stroll,117,Aston Martin,15,\N,R,18,0,8,\N,\N,6,18,01:30.9,214.531,130
+458,2024,23,78,Qatar,43,Franco,Colapinto,3,Williams,19,\N,R,19,0,0,\N,\N,\N,0,\N,\N,4
+459,2024,23,78,Qatar,31,Esteban,Ocon,214,Alpine F1 Team,20,\N,R,20,0,0,\N,\N,\N,0,\N,\N,4
+460,2024,24,24,Abu Dhabi,4,Lando,Norris,1,McLaren,1,1,1,1,25,58,26:33.3,5193291,52,3,01:27.4,217.429,1
+461,2024,24,24,Abu Dhabi,55,Carlos,Sainz,6,Ferrari,3,2,2,2,18,58,5.832,5199123,55,5,01:27.8,216.619,1
+462,2024,24,24,Abu Dhabi,16,Charles,Leclerc,6,Ferrari,19,3,3,3,15,58,31.928,5225219,51,9,01:28.0,215.996,1
+463,2024,24,24,Abu Dhabi,44,Lewis,Hamilton,131,Mercedes,16,4,4,4,12,58,36.483,5229774,44,2,01:27.3,217.828,1
+464,2024,24,24,Abu Dhabi,63,George,Russell,131,Mercedes,6,5,5,5,10,58,37.538,5230829,56,10,01:28.2,215.563,1
+465,2024,24,24,Abu Dhabi,1,Max,Verstappen,9,Red Bull,4,6,6,6,8,58,49.847,5243138,56,6,01:27.8,216.619,1
+466,2024,24,24,Abu Dhabi,10,Pierre,Gasly,214,Alpine F1 Team,5,7,7,7,6,58,72.56,5265851,30,16,01:29.3,213.012,1
+467,2024,24,24,Abu Dhabi,27,Nico,Haulkenberg,210,Haas F1 Team,7,8,8,8,4,58,75.554,5268845,17,14,01:29.2,213.249,1
+468,2024,24,24,Abu Dhabi,14,Fernando,Alonso,117,Aston Martin,8,9,9,9,2,58,82.373,5275664,51,7,01:27.9,216.168,1
+469,2024,24,24,Abu Dhabi,81,Oscar,Piastri,1,McLaren,2,10,10,10,1,58,83.821,5277112,51,4,01:27.7,216.804,1
+470,2024,24,24,Abu Dhabi,23,Alexander,Albon,3,Williams,18,11,11,11,0,57,\N,\N,46,18,01:29.4,212.567,11
+471,2024,24,24,Abu Dhabi,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,11,12,12,12,0,57,\N,\N,41,15,01:29.2,213.134,11
+472,2024,24,24,Abu Dhabi,24,Guanyu,Zhou,15,kick Sauber,15,13,13,13,0,57,\N,\N,56,8,01:28.0,216.085,11
+473,2024,24,24,Abu Dhabi,18,Lance,Stroll,117,Aston Martin,13,14,14,14,0,57,\N,\N,42,11,01:28.6,214.568,11
+474,2024,24,24,Abu Dhabi,61,Jack,Doohan,214,Alpine F1 Team,17,15,15,15,0,57,\N,\N,56,13,01:29.1,213.323,11
+475,2024,24,24,Abu Dhabi,20,Kevin,Magnussen,210,Haas F1 Team,14,16,16,16,0,57,\N,\N,57,1,01:25.6,222.002,11
+476,2024,24,24,Abu Dhabi,30,Liam,Lawson,215,Racing Bulls F1 Team,12,17,17,17,0,55,\N,\N,52,12,01:28.8,214.212,5
+477,2024,24,24,Abu Dhabi,77,Valtteri,Bottas,15,kick Sauber,9,\N,R,18,0,30,\N,\N,14,19,01:29.5,212.462,130
+478,2024,24,24,Abu Dhabi,43,Franco,Colapinto,3,Williams,20,\N,R,19,0,26,\N,\N,5,17,01:29.4,212.631,5
+479,2024,24,24,Abu Dhabi,11,Sergio,Perez,9,Red Bull,10,\N,R,20,0,0,\N,\N,\N,0,\N,\N,4
+480,2025,1,1,Australian,4,Lando,Norris,1,McLaren,1,1,1,1,25,57,42:06.3,6126304,43,1,01:22.2,\N,1
+481,2025,1,1,Australian,1,Max,Verstappen,9,Red Bull,3,2,2,2,18,57,0.895,6127199,43,3,01:23.1,\N,1
+482,2025,1,1,Australian,63,George,Russell,131,Mercedes,4,3,3,3,15,57,8.481,6134785,43,11,01:25.1,\N,1
+483,2025,1,1,Australian,12,Andrea Kimi,Antonelli,131,Mercedes,16,4,4,4,12,57,10.135,6136439,43,9,01:24.9,\N,1
+484,2025,1,1,Australian,23,Alexander,Albon,3,Williams,6,5,5,5,10,57,12.773,6139077,43,8,01:24.6,\N,1
+485,2025,1,1,Australian,18,Lance,Stroll,117,Aston Martin,13,6,6,6,8,57,17.413,6143717,43,14,01:25.5,\N,1
+486,2025,1,1,Australian,27,Nico,Haulkenberg,15,kick Sauber,17,7,7,7,6,57,18.423,6144727,43,12,01:25.2,\N,1
+487,2025,1,1,Australian,16,Charles,Leclerc,6,Ferrari,7,8,8,8,4,57,19.826,6146130,43,13,01:25.3,\N,1
+488,2025,1,1,Australian,81,Oscar,Piastri,1,McLaren,2,9,9,9,2,57,20.448,6146752,43,4,01:23.2,\N,1
+489,2025,1,1,Australian,44,Lewis,Hamilton,6,Ferrari,8,10,10,10,1,57,22.473,6148777,43,7,01:24.2,\N,1
+490,2025,1,1,Australian,10,Pierre,Gasly,214,Alpine F1 Team,9,11,11,11,0,57,26.502,6152806,43,10,01:25.0,\N,1
+491,2025,1,1,Australian,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,5,12,12,12,0,57,29.884,6156188,43,6,01:24.2,\N,1
+492,2025,1,1,Australian,31,Esteban,Ocon,210,Haas F1 Team,19,13,13,13,0,57,33.161,6159465,42,15,01:26.8,\N,1
+493,2025,1,1,Australian,87,Oliver,Bearman,210,Haas F1 Team,20,14,14,14,0,57,40.351,6166655,42,16,01:27.6,\N,1
+494,2025,1,1,Australian,30,Liam,Lawson,9,Red Bull,18,15,R,15,0,46,\N,\N,43,2,01:23.0,\N,3
+495,2025,1,1,Australian,5,Gabriel,Bortoleto,15,kick Sauber,15,16,R,16,0,45,\N,\N,43,5,01:24.2,\N,3
+496,2025,1,1,Australian,14,Fernando,Alonso,117,Aston Martin,12,17,R,17,0,32,\N,\N,32,17,01:28.8,\N,3
+497,2025,1,1,Australian,55,Carlos,Sainz,3,Williams,10,18,R,18,0,0,\N,\N,\N,\N,\N,\N,3
+498,2025,1,1,Australian,7,Jack,Doohan,214,Alpine F1 Team,14,19,R,19,0,0,\N,\N,\N,\N,\N,\N,3
+499,2025,1,1,Australian,6,Isack,Hadjar,215,Racing Bulls F1 Team,11,20,R,20,0,0,\N,\N,\N,\N,\N,\N,3
+500,2025,2,17,Chinese,81,Oscar,Piastri,1,McLaren,1,1,1,1,25,56,30:55.0,5455026,53,3,01:35.5,\N,1
+501,2025,2,17,Chinese,4,Lando,Norris,1,McLaren,3,2,2,2,18,56,9.748,5464774,53,1,01:35.5,\N,1
+502,2025,2,17,Chinese,63,George,Russell,131,Mercedes,2,3,3,3,15,56,11.097,5466123,55,5,01:35.8,\N,1
+503,2025,2,17,Chinese,1,Max,Verstappen,9,Red Bull,4,4,4,4,12,56,16.656,5471682,56,2,01:35.5,\N,1
+504,2025,2,17,Chinese,31,Esteban,Ocon,210,Haas F1 Team,11,5,5,5,10,56,49.969,5504995,56,4,01:35.7,\N,1
+505,2025,2,17,Chinese,12,Andrea Kimi,Antonelli,131,Mercedes,8,6,6,6,8,56,53.748,5508774,56,11,01:36.0,\N,1
+506,2025,2,17,Chinese,23,Alexander,Albon,3,Williams,10,7,7,7,6,56,56.321,5511347,52,12,01:36.3,\N,1
+507,2025,2,17,Chinese,87,Oliver,Bearman,210,Haas F1 Team,17,8,8,8,4,56,61.303,5516329,52,13,01:36.4,\N,1
+508,2025,2,17,Chinese,18,Lance,Stroll,117,Aston Martin,14,9,9,9,2,56,70.204,5525230,39,10,01:36.0,\N,1
+509,2025,2,17,Chinese,55,Carlos,Sainz,3,Williams,15,10,10,10,1,56,76.387,5531413,50,15,01:36.8,\N,1
+510,2025,2,17,Chinese,6,Isack,Hadjar,215,Racing Bulls F1 Team,7,11,11,11,0,56,78.875,5533901,35,6,01:35.9,\N,1
+511,2025,2,17,Chinese,30,Liam,Lawson,9,Red Bull,20,12,12,12,0,56,81.147,5536173,32,9,01:36.0,\N,1
+512,2025,2,17,Chinese,7,Jack,Doohan,214,Alpine F1 Team,18,13,13,13,0,56,88.401,5543427,52,14,01:36.4,\N,1
+513,2025,2,17,Chinese,5,Gabriel,Bortoleto,15,kick Sauber,19,14,14,14,0,55,\N,\N,28,8,01:35.9,\N,11
+514,2025,2,17,Chinese,27,Nico,Haulkenberg,15,kick Sauber,12,15,15,15,0,55,\N,\N,35,16,01:37.3,\N,11
+515,2025,2,17,Chinese,22,Yuki,Tsunoda,215,Racing Bulls F1 Team,9,16,16,16,0,55,\N,\N,49,7,01:35.9,\N,11
+516,2025,2,17,Chinese,14,Fernando,Alonso,117,Aston Martin,13,17,R,17,0,4,\N,\N,3,17,01:39.3,\N,23
+517,2025,2,17,Chinese,16,Charles,Leclerc,6,Ferrari,6,18,D,18,0,0,\N,\N,\N,\N,\N,\N,92
+518,2025,2,17,Chinese,44,Lewis,Hamilton,6,Ferrari,5,19,D,19,0,0,\N,\N,\N,\N,\N,\N,2
+519,2025,2,17,Chinese,10,Pierre,Gasly,214,Alpine F1 Team,16,20,D,20,0,0,\N,\N,\N,\N,\N,\N,92
+520,2025,3,22,Japanese,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,53,22:07.0,4926983,52,3,01:31.0,\N,1
+521,2025,3,22,Japanese,4,Lando,Norris,1,McLaren,2,2,2,2,18,53,1.423,4928406,51,5,01:31.1,\N,1
+522,2025,3,22,Japanese,81,Oscar,Piastri,1,McLaren,3,3,3,3,15,53,2.129,4929112,53,2,01:31.0,\N,1
+523,2025,3,22,Japanese,16,Charles,Leclerc,6,Ferrari,4,4,4,4,12,53,16.097,4943080,47,10,01:31.5,\N,1
+524,2025,3,22,Japanese,63,George,Russell,131,Mercedes,5,5,5,5,10,53,17.362,4944345,51,8,01:31.4,\N,1
+525,2025,3,22,Japanese,12,Andrea Kimi,Antonelli,131,Mercedes,6,6,6,6,8,53,18.671,4945654,50,1,01:31.0,\N,1
+526,2025,3,22,Japanese,44,Lewis,Hamilton,6,Ferrari,8,7,7,7,6,53,29.182,4956165,51,9,01:31.4,\N,1
+527,2025,3,22,Japanese,6,Isack,Hadjar,215,Racing Bulls F1 Team,7,8,8,8,4,53,37.134,4964117,52,7,01:31.3,\N,1
+528,2025,3,22,Japanese,23,Alexander,Albon,3,Williams,9,9,9,9,2,53,40.367,4967350,52,6,01:31.1,\N,1
+529,2025,3,22,Japanese,87,Oliver,Bearman,210,Haas F1 Team,10,10,10,10,1,53,54.529,4981512,49,15,01:32.0,\N,1
+530,2025,3,22,Japanese,14,Fernando,Alonso,117,Aston Martin,12,11,11,11,0,53,57.333,4984316,51,11,01:31.8,\N,1
+531,2025,3,22,Japanese,22,Yuki,Tsunoda,9,Red Bull,14,12,12,12,0,53,58.401,4985384,51,13,01:31.9,\N,1
+532,2025,3,22,Japanese,10,Pierre,Gasly,214,Alpine F1 Team,11,13,13,13,0,53,62.122,4989105,52,12,01:31.8,\N,1
+533,2025,3,22,Japanese,55,Carlos,Sainz,3,Williams,15,14,14,14,0,53,74.129,5001112,36,4,01:31.1,\N,1
+534,2025,3,22,Japanese,7,Jack,Doohan,214,Alpine F1 Team,19,15,15,15,0,53,81.314,5008297,47,20,01:32.7,\N,1
+535,2025,3,22,Japanese,27,Nico,Haulkenberg,15,kick Sauber,16,16,16,16,0,53,81.957,5008940,31,19,01:32.6,\N,1
+536,2025,3,22,Japanese,30,Liam,Lawson,215,Racing Bulls F1 Team,13,17,17,17,0,53,82.734,5009717,39,17,01:32.0,\N,1
+537,2025,3,22,Japanese,31,Esteban,Ocon,210,Haas F1 Team,18,18,18,18,0,53,83.438,5010421,48,14,01:32.0,\N,1
+538,2025,3,22,Japanese,5,Gabriel,Bortoleto,15,kick Sauber,17,19,19,19,0,53,83.897,5010880,45,16,01:32.0,\N,1
+539,2025,3,22,Japanese,18,Lance,Stroll,117,Aston Martin,20,20,20,20,0,52,\N,\N,52,18,01:32.1,\N,11
+540,2025,4,3,Bahrain,81,Oscar,Piastri,1,McLaren,1,1,1,1,25,57,35:39.4,5739435,36,1,01:35.1,\N,1
+541,2025,4,3,Bahrain,63,George,Russell,131,Mercedes,3,2,2,2,18,57,15.499,5754934,36,2,01:35.5,\N,1
+542,2025,4,3,Bahrain,4,Lando,Norris,1,McLaren,6,3,3,3,15,57,16.273,5755708,38,3,01:35.7,\N,1
+543,2025,4,3,Bahrain,16,Charles,Leclerc,6,Ferrari,2,4,4,4,12,57,19.679,5759114,36,4,01:36.1,\N,1
+544,2025,4,3,Bahrain,44,Lewis,Hamilton,6,Ferrari,9,5,5,5,10,57,27.993,5767428,37,6,01:36.2,\N,1
+545,2025,4,3,Bahrain,1,Max,Verstappen,9,Red Bull,7,6,6,6,8,57,34.395,5773830,29,5,01:36.2,\N,1
+546,2025,4,3,Bahrain,10,Pierre,Gasly,214,Alpine F1 Team,4,7,7,7,6,57,36.002,5775437,39,7,01:36.5,\N,1
+547,2025,4,3,Bahrain,31,Esteban,Ocon,210,Haas F1 Team,14,8,8,8,4,57,44.244,5783679,30,12,01:37.1,\N,1
+548,2025,4,3,Bahrain,22,Yuki,Tsunoda,9,Red Bull,10,9,9,9,2,57,45.061,5784496,45,14,01:37.2,\N,1
+549,2025,4,3,Bahrain,87,Oliver,Bearman,210,Haas F1 Team,20,10,10,10,1,57,47.594,5787029,40,15,01:37.3,\N,1
+550,2025,4,3,Bahrain,12,Andrea Kimi,Antonelli,131,Mercedes,5,11,11,11,0,57,48.016,5787451,29,9,01:36.7,\N,1
+551,2025,4,3,Bahrain,23,Alexander,Albon,3,Williams,15,12,12,12,0,57,48.839,5788274,47,13,01:37.1,\N,1
+552,2025,4,3,Bahrain,6,Isack,Hadjar,215,Racing Bulls F1 Team,12,13,13,13,0,57,56.314,5795749,30,10,01:37.0,\N,1
+553,2025,4,3,Bahrain,7,Jack,Doohan,214,Alpine F1 Team,11,14,14,14,0,57,57.806,5797241,31,8,01:36.7,\N,1
+554,2025,4,3,Bahrain,14,Fernando,Alonso,117,Aston Martin,13,15,15,15,0,57,60.34,5799775,38,17,01:37.9,\N,1
+555,2025,4,3,Bahrain,30,Liam,Lawson,215,Racing Bulls F1 Team,17,16,16,16,0,57,64.435,5803870,44,16,01:37.4,\N,1
+556,2025,4,3,Bahrain,18,Lance,Stroll,117,Aston Martin,19,17,17,17,0,57,65.489,5804924,38,19,01:38.1,\N,1
+557,2025,4,3,Bahrain,5,Gabriel,Bortoleto,15,kick Sauber,18,18,18,18,0,57,66.872,5806307,38,18,01:38.0,\N,1
+558,2025,4,3,Bahrain,55,Carlos,Sainz,3,Williams,8,19,R,19,0,45,\N,\N,16,11,01:37.0,\N,130
+559,2025,4,3,Bahrain,27,Nico,Haulkenberg,15,kick Sauber,16,20,D,20,0,0,\N,\N,\N,\N,\N,\N,2
+560,2025,5,77,Saudi Arabian,81,Oscar,Piastri,1,McLaren,2,1,1,1,25,50,21:06.8,4866758,50,3,01:32.2,\N,1
+561,2025,5,77,Saudi Arabian,1,Max,Verstappen,9,Red Bull,1,2,2,2,18,50,2.843,4869601,49,4,01:32.3,\N,1
+562,2025,5,77,Saudi Arabian,16,Charles,Leclerc,6,Ferrari,4,3,3,3,15,50,8.104,4874862,49,2,01:32.2,\N,1
+563,2025,5,77,Saudi Arabian,4,Lando,Norris,1,McLaren,10,4,4,4,12,50,9.196,4875954,41,1,01:31.8,\N,1
+564,2025,5,77,Saudi Arabian,63,George,Russell,131,Mercedes,3,5,5,5,10,50,27.236,4893994,32,9,01:32.9,\N,1
+565,2025,5,77,Saudi Arabian,12,Andrea Kimi,Antonelli,131,Mercedes,5,6,6,6,8,50,34.688,4901446,50,5,01:32.4,\N,1
+566,2025,5,77,Saudi Arabian,44,Lewis,Hamilton,6,Ferrari,7,7,7,7,6,50,39.073,4905831,43,7,01:32.6,\N,1
+567,2025,5,77,Saudi Arabian,55,Carlos,Sainz,3,Williams,6,8,8,8,4,50,64.63,4931388,50,6,01:32.5,\N,1
+568,2025,5,77,Saudi Arabian,23,Alexander,Albon,3,Williams,11,9,9,9,2,50,66.515,4933273,47,16,01:33.5,\N,1
+569,2025,5,77,Saudi Arabian,6,Isack,Hadjar,215,Racing Bulls F1 Team,14,10,10,10,1,50,67.091,4933849,39,14,01:33.3,\N,1
+570,2025,5,77,Saudi Arabian,14,Fernando,Alonso,117,Aston Martin,13,11,11,11,0,50,75.917,4942675,49,11,01:33.0,\N,1
+571,2025,5,77,Saudi Arabian,30,Liam,Lawson,215,Racing Bulls F1 Team,12,12,12,12,0,50,78.451,4945209,43,10,01:33.0,\N,1
+572,2025,5,77,Saudi Arabian,87,Oliver,Bearman,210,Haas F1 Team,15,13,13,13,0,50,79.194,4945952,50,13,01:33.2,\N,1
+573,2025,5,77,Saudi Arabian,31,Esteban,Ocon,210,Haas F1 Team,19,14,14,14,0,50,99.723,4966481,47,17,01:34.3,\N,1
+574,2025,5,77,Saudi Arabian,27,Nico,Haulkenberg,15,kick Sauber,18,15,15,15,0,49,\N,\N,39,15,01:33.4,\N,11
+575,2025,5,77,Saudi Arabian,18,Lance,Stroll,117,Aston Martin,16,16,16,16,0,49,\N,\N,44,8,01:32.7,\N,11
+576,2025,5,77,Saudi Arabian,7,Jack,Doohan,214,Alpine F1 Team,17,17,17,17,0,49,\N,\N,48,12,01:33.2,\N,11
+577,2025,5,77,Saudi Arabian,5,Gabriel,Bortoleto,15,kick Sauber,20,18,18,18,0,49,\N,\N,39,18,01:34.4,\N,11
+578,2025,5,77,Saudi Arabian,22,Yuki,Tsunoda,9,Red Bull,8,19,R,19,0,1,\N,\N,\N,\N,\N,\N,130
+579,2025,5,77,Saudi Arabian,10,Pierre,Gasly,214,Alpine F1 Team,9,20,R,20,0,0,\N,\N,\N,\N,\N,\N,4
+580,2025,6,79,Miami,81,Oscar,Piastri,1,McLaren,4,1,1,1,25,57,28:51.6,5331587,35,2,01:29.8,\N,1
+581,2025,6,79,Miami,4,Lando,Norris,1,McLaren,2,2,2,2,18,57,4.63,5336217,36,1,01:29.7,\N,1
+582,2025,6,79,Miami,63,George,Russell,131,Mercedes,5,3,3,3,15,57,37.644,5369231,31,3,01:30.3,\N,1
+583,2025,6,79,Miami,1,Max,Verstappen,9,Red Bull,1,4,4,4,12,57,39.956,5371543,41,5,01:30.5,\N,1
+584,2025,6,79,Miami,23,Alexander,Albon,3,Williams,7,5,5,5,10,57,48.067,5379654,55,6,01:30.5,\N,1
+585,2025,6,79,Miami,12,Andrea Kimi,Antonelli,131,Mercedes,3,6,6,6,8,57,55.502,5387089,27,9,01:30.8,\N,1
+586,2025,6,79,Miami,16,Charles,Leclerc,6,Ferrari,8,7,7,7,6,57,57.036,5388623,35,4,01:30.5,\N,1
+587,2025,6,79,Miami,44,Lewis,Hamilton,6,Ferrari,12,8,8,8,4,57,60.186,5391773,35,7,01:30.6,\N,1
+588,2025,6,79,Miami,55,Carlos,Sainz,3,Williams,6,9,9,9,2,57,60.577,5392164,35,8,01:30.7,\N,1
+589,2025,6,79,Miami,22,Yuki,Tsunoda,9,Red Bull,10,10,10,10,1,57,74.434,5406021,55,10,01:31.0,\N,1
+590,2025,6,79,Miami,6,Isack,Hadjar,215,Racing Bulls F1 Team,11,11,11,11,0,57,74.602,5406189,51,11,01:31.0,\N,1
+591,2025,6,79,Miami,31,Esteban,Ocon,210,Haas F1 Team,9,12,12,12,0,57,82.006,5413593,30,13,01:31.1,\N,1
+592,2025,6,79,Miami,10,Pierre,Gasly,214,Alpine F1 Team,20,13,13,13,0,57,90.445,5422032,35,14,01:31.2,\N,1
+593,2025,6,79,Miami,27,Nico,Haulkenberg,15,kick Sauber,16,14,14,14,0,56,\N,\N,43,12,01:31.0,\N,11
+594,2025,6,79,Miami,14,Fernando,Alonso,117,Aston Martin,17,15,15,15,0,56,\N,\N,38,15,01:31.3,\N,11
+595,2025,6,79,Miami,18,Lance,Stroll,117,Aston Martin,18,16,16,16,0,56,\N,\N,50,16,01:31.8,\N,11
+596,2025,6,79,Miami,30,Liam,Lawson,215,Racing Bulls F1 Team,15,17,R,17,0,36,\N,\N,30,17,01:31.8,\N,130
+597,2025,6,79,Miami,5,Gabriel,Bortoleto,15,kick Sauber,13,18,R,18,0,30,\N,\N,21,18,01:32.3,\N,69
+598,2025,6,79,Miami,87,Oliver,Bearman,210,Haas F1 Team,19,19,R,19,0,27,\N,\N,24,19,01:32.7,\N,5
+599,2025,6,79,Miami,7,Jack,Doohan,214,Alpine F1 Team,14,20,R,20,0,0,\N,\N,\N,\N,\N,\N,4
+600,2025,7,21,Emilia Romagna,1,Max,Verstappen,9,Red Bull,2,1,1,1,25,63,31:33.2,5493199,58,1,01:18.0,\N,1
+601,2025,7,21,Emilia Romagna,4,Lando,Norris,1,McLaren,4,2,2,2,18,63,6.109,5499308,63,4,01:18.3,\N,1
+602,2025,7,21,Emilia Romagna,81,Oscar,Piastri,1,McLaren,1,3,3,3,15,63,12.956,5506155,56,5,01:18.9,\N,1
+603,2025,7,21,Emilia Romagna,44,Lewis,Hamilton,6,Ferrari,12,4,4,4,12,63,14.356,5507555,61,2,01:18.3,\N,1
+604,2025,7,21,Emilia Romagna,23,Alexander,Albon,3,Williams,7,5,5,5,10,63,17.945,5511144,63,3,01:18.3,\N,1
+605,2025,7,21,Emilia Romagna,16,Charles,Leclerc,6,Ferrari,11,6,6,6,8,63,20.774,5513973,56,6,01:19.0,\N,1
+606,2025,7,21,Emilia Romagna,63,George,Russell,131,Mercedes,3,7,7,7,6,63,22.034,5515233,55,9,01:19.7,\N,1
+607,2025,7,21,Emilia Romagna,55,Carlos,Sainz,3,Williams,6,8,8,8,4,63,22.898,5516097,58,10,01:19.8,\N,1
+608,2025,7,21,Emilia Romagna,6,Isack,Hadjar,215,Racing Bulls F1 Team,9,9,9,9,2,63,23.586,5516785,60,7,01:19.5,\N,1
+609,2025,7,21,Emilia Romagna,22,Yuki,Tsunoda,9,Red Bull,20,10,10,10,1,63,26.446,5519645,60,12,01:20.0,\N,1
+610,2025,7,21,Emilia Romagna,14,Fernando,Alonso,117,Aston Martin,5,11,11,11,0,63,27.25,5520449,61,11,01:19.9,\N,1
+611,2025,7,21,Emilia Romagna,27,Nico,Haulkenberg,15,kick Sauber,17,12,12,12,0,63,30.296,5523495,62,15,01:20.4,\N,1
+612,2025,7,21,Emilia Romagna,10,Pierre,Gasly,214,Alpine F1 Team,10,13,13,13,0,63,31.424,5524623,58,14,01:20.4,\N,1
+613,2025,7,21,Emilia Romagna,30,Liam,Lawson,215,Racing Bulls F1 Team,15,14,14,14,0,63,32.511,5525710,60,16,01:20.5,\N,1
+614,2025,7,21,Emilia Romagna,18,Lance,Stroll,117,Aston Martin,8,15,15,15,0,63,32.993,5526192,58,17,01:20.5,\N,1
+615,2025,7,21,Emilia Romagna,43,Franco,Colapinto,214,Alpine F1 Team,16,16,16,16,0,63,33.411,5526610,57,13,01:20.3,\N,1
+616,2025,7,21,Emilia Romagna,87,Oliver,Bearman,210,Haas F1 Team,19,17,17,17,0,63,33.808,5527007,52,8,01:19.5,\N,1
+617,2025,7,21,Emilia Romagna,5,Gabriel,Bortoleto,15,kick Sauber,14,18,18,18,0,63,38.572,5531771,57,19,01:20.6,\N,1
+618,2025,7,21,Emilia Romagna,12,Andrea Kimi,Antonelli,131,Mercedes,13,19,R,19,0,44,\N,\N,33,18,01:20.6,\N,37
+619,2025,7,21,Emilia Romagna,31,Esteban,Ocon,210,Haas F1 Team,18,20,R,20,0,27,\N,\N,3,20,01:21.4,\N,5
+620,2025,8,6,Monaco,4,Lando,Norris,1,McLaren,1,1,1,1,25,78,40:33.8,6033843,78,1,01:13.2,\N,1
+621,2025,8,6,Monaco,16,Charles,Leclerc,6,Ferrari,2,2,2,2,18,78,3.131,6036974,36,6,01:14.1,\N,1
+622,2025,8,6,Monaco,81,Oscar,Piastri,1,McLaren,3,3,3,3,15,78,3.658,6037501,60,4,01:13.7,\N,1
+623,2025,8,6,Monaco,1,Max,Verstappen,9,Red Bull,4,4,4,4,12,78,20.572,6054415,45,8,01:14.2,\N,1
+624,2025,8,6,Monaco,44,Lewis,Hamilton,6,Ferrari,7,5,5,5,10,78,51.387,6085230,73,7,01:14.1,\N,1
+625,2025,8,6,Monaco,6,Isack,Hadjar,215,Racing Bulls F1 Team,5,6,6,6,8,77,\N,\N,16,19,01:16.0,\N,11
+626,2025,8,6,Monaco,31,Esteban,Ocon,210,Haas F1 Team,8,7,7,7,6,77,\N,\N,34,14,01:15.2,\N,11
+627,2025,8,6,Monaco,30,Liam,Lawson,215,Racing Bulls F1 Team,9,8,8,8,4,77,\N,\N,54,17,01:15.3,\N,11
+628,2025,8,6,Monaco,23,Alexander,Albon,3,Williams,10,9,9,9,2,76,\N,\N,74,9,01:14.6,\N,12
+629,2025,8,6,Monaco,55,Carlos,Sainz,3,Williams,11,10,10,10,1,76,\N,\N,68,5,01:14.0,\N,12
+630,2025,8,6,Monaco,63,George,Russell,131,Mercedes,14,11,11,11,0,76,\N,\N,74,2,01:13.4,\N,12
+631,2025,8,6,Monaco,87,Oliver,Bearman,210,Haas F1 Team,20,12,12,12,0,76,\N,\N,6,10,01:14.9,\N,12
+632,2025,8,6,Monaco,43,Franco,Colapinto,214,Alpine F1 Team,18,13,13,13,0,76,\N,\N,30,16,01:15.3,\N,12
+633,2025,8,6,Monaco,5,Gabriel,Bortoleto,15,kick Sauber,16,14,14,14,0,76,\N,\N,37,12,01:14.9,\N,12
+634,2025,8,6,Monaco,18,Lance,Stroll,117,Aston Martin,19,15,15,15,0,76,\N,\N,67,11,01:14.9,\N,12
+635,2025,8,6,Monaco,27,Nico,Haulkenberg,15,kick Sauber,13,16,16,16,0,76,\N,\N,47,15,01:15.2,\N,12
+636,2025,8,6,Monaco,22,Yuki,Tsunoda,9,Red Bull,12,17,17,17,0,76,\N,\N,75,13,01:14.9,\N,12
+637,2025,8,6,Monaco,12,Andrea Kimi,Antonelli,131,Mercedes,15,18,18,18,0,75,\N,\N,74,3,01:13.5,\N,13
+638,2025,8,6,Monaco,14,Fernando,Alonso,117,Aston Martin,6,19,R,19,0,36,\N,\N,15,18,01:15.6,\N,5
+639,2025,8,6,Monaco,10,Pierre,Gasly,214,Alpine F1 Team,17,20,R,20,0,7,\N,\N,6,20,01:18.1,\N,130
+640,2025,9,4,Spanish,81,Oscar,Piastri,1,McLaren,1,1,1,1,25,66,32:57.4,5577375,61,1,01:15.7,\N,1
+641,2025,9,4,Spanish,4,Lando,Norris,1,McLaren,2,2,2,2,18,66,2.471,5579846,61,2,01:16.2,\N,1
+642,2025,9,4,Spanish,16,Charles,Leclerc,6,Ferrari,7,3,3,3,15,66,10.455,5587830,62,5,01:17.3,\N,1
+643,2025,9,4,Spanish,63,George,Russell,131,Mercedes,4,4,4,4,12,66,11.359,5588734,62,4,01:17.2,\N,1
+644,2025,9,4,Spanish,27,Nico,Haulkenberg,15,kick Sauber,15,5,5,5,10,66,13.648,5591023,63,6,01:17.6,\N,1
+645,2025,9,4,Spanish,44,Lewis,Hamilton,6,Ferrari,5,6,6,6,8,66,15.508,5592883,62,7,01:17.7,\N,1
+646,2025,9,4,Spanish,6,Isack,Hadjar,215,Racing Bulls F1 Team,9,7,7,7,6,66,16.022,5593397,63,8,01:17.8,\N,1
+647,2025,9,4,Spanish,10,Pierre,Gasly,214,Alpine F1 Team,8,8,8,8,4,66,17.882,5595257,63,9,01:17.9,\N,1
+648,2025,9,4,Spanish,14,Fernando,Alonso,117,Aston Martin,10,9,9,9,2,66,21.564,5598939,66,11,01:18.1,\N,1
+649,2025,9,4,Spanish,1,Max,Verstappen,9,Red Bull,3,10,10,10,1,66,21.826,5599201,62,3,01:17.0,\N,1
+650,2025,9,4,Spanish,30,Liam,Lawson,215,Racing Bulls F1 Team,13,11,11,11,0,66,25.532,5602907,62,18,01:19.4,\N,1
+651,2025,9,4,Spanish,5,Gabriel,Bortoleto,15,kick Sauber,12,12,12,12,0,66,25.996,5603371,51,13,01:18.3,\N,1
+652,2025,9,4,Spanish,22,Yuki,Tsunoda,9,Red Bull,19,13,13,13,0,66,28.822,5606197,46,10,01:18.0,\N,1
+653,2025,9,4,Spanish,55,Carlos,Sainz,3,Williams,17,14,14,14,0,66,29.309,5606684,65,17,01:19.3,\N,1
+654,2025,9,4,Spanish,43,Franco,Colapinto,214,Alpine F1 Team,18,15,15,15,0,66,31.381,5608756,41,14,01:18.4,\N,1
+655,2025,9,4,Spanish,31,Esteban,Ocon,210,Haas F1 Team,16,16,16,16,0,66,32.197,5609572,46,15,01:18.6,\N,1
+656,2025,9,4,Spanish,87,Oliver,Bearman,210,Haas F1 Team,14,17,17,17,0,66,37.065,5614440,63,16,01:18.9,\N,1
+657,2025,9,4,Spanish,12,Andrea Kimi,Antonelli,131,Mercedes,6,18,R,18,0,53,\N,\N,52,12,01:18.3,\N,5
+658,2025,9,4,Spanish,23,Alexander,Albon,3,Williams,11,19,R,19,0,27,\N,\N,9,19,01:20.5,\N,130
+659,2025,10,7,Canadian ,63,George,Russell,131,Mercedes,1,1,1,1,25,70,31:52.7,5512688,63,1,01:14.1,\N,1
+660,2025,10,7,Canadian ,1,Max,Verstappen,9,Red Bull,2,2,2,2,18,70,0.228,5512916,62,5,01:14.3,\N,1
+661,2025,10,7,Canadian ,12,Andrea Kimi,Antonelli,131,Mercedes,4,3,3,3,15,70,1.014,5513702,60,7,01:14.5,\N,1
+662,2025,10,7,Canadian ,81,Oscar,Piastri,1,McLaren,3,4,4,4,12,70,2.109,5514797,64,3,01:14.3,\N,1
+663,2025,10,7,Canadian ,16,Charles,Leclerc,6,Ferrari,8,5,5,5,10,70,3.442,5516130,57,4,01:14.3,\N,1
+664,2025,10,7,Canadian ,44,Lewis,Hamilton,6,Ferrari,5,6,6,6,8,70,10.713,5523401,64,9,01:14.8,\N,1
+665,2025,10,7,Canadian ,14,Fernando,Alonso,117,Aston Martin,6,7,7,7,6,70,10.972,5523660,58,12,01:15.0,\N,1
+666,2025,10,7,Canadian ,27,Nico,Haulkenberg,15,kick Sauber,11,8,8,8,4,70,15.364,5528052,65,14,01:15.4,\N,1
+667,2025,10,7,Canadian ,31,Esteban,Ocon,210,Haas F1 Team,14,9,9,9,2,69,\N,\N,61,8,01:14.6,\N,11
+668,2025,10,7,Canadian ,55,Carlos,Sainz,3,Williams,16,10,10,10,1,69,\N,\N,59,6,01:14.4,\N,11
+669,2025,10,7,Canadian ,87,Oliver,Bearman,210,Haas F1 Team,13,11,11,11,0,69,\N,\N,62,15,01:15.4,\N,11
+670,2025,10,7,Canadian ,22,Yuki,Tsunoda,9,Red Bull,18,12,12,12,0,69,\N,\N,59,13,01:15.4,\N,11
+671,2025,10,7,Canadian ,43,Franco,Colapinto,214,Alpine F1 Team,10,13,13,13,0,69,\N,\N,53,17,01:16.1,\N,11
+672,2025,10,7,Canadian ,5,Gabriel,Bortoleto,15,kick Sauber,15,14,14,14,0,69,\N,\N,56,16,01:15.4,\N,11
+673,2025,10,7,Canadian ,10,Pierre,Gasly,214,Alpine F1 Team,20,15,15,15,0,69,\N,\N,63,11,01:15.0,\N,11
+674,2025,10,7,Canadian ,6,Isack,Hadjar,215,Racing Bulls F1 Team,12,16,16,16,0,69,\N,\N,51,19,01:16.3,\N,11
+675,2025,10,7,Canadian ,18,Lance,Stroll,117,Aston Martin,17,17,17,17,0,69,\N,\N,57,10,01:14.9,\N,11
+676,2025,10,7,Canadian ,4,Lando,Norris,1,McLaren,7,18,18,18,0,66,\N,\N,65,2,01:14.2,\N,4
+677,2025,10,7,Canadian ,30,Liam,Lawson,215,Racing Bulls F1 Team,19,19,R,19,0,53,\N,\N,52,20,01:16.3,\N,25
+678,2025,10,7,Canadian ,23,Alexander,Albon,3,Williams,9,20,R,20,0,46,\N,\N,31,18,01:16.2,\N,5
+679,2025,11,70,Austrian ,4,Lando,Norris,1,McLaren,1,1,1,1,25,70,23:47.7,5027693,61,2,01:08.3,\N,1
+680,2025,11,70,Austrian ,81,Oscar,Piastri,1,McLaren,3,2,2,2,18,70,2.695,5030388,59,1,01:07.9,\N,1
+681,2025,11,70,Austrian ,16,Charles,Leclerc,6,Ferrari,2,3,3,3,15,70,19.82,5047513,56,4,01:08.8,\N,1
+682,2025,11,70,Austrian ,44,Lewis,Hamilton,6,Ferrari,4,4,4,4,12,70,29.02,5056713,53,3,01:08.6,\N,1
+683,2025,11,70,Austrian ,63,George,Russell,131,Mercedes,5,5,5,5,10,70,62.396,5090089,47,7,01:09.4,\N,1
+684,2025,11,70,Austrian ,30,Liam,Lawson,215,Racing Bulls F1 Team,6,6,6,6,8,70,67.754,5095447,58,14,01:10.0,\N,1
+685,2025,11,70,Austrian ,14,Fernando,Alonso,117,Aston Martin,11,7,7,7,6,69,\N,\N,39,12,01:09.9,\N,11
+686,2025,11,70,Austrian ,5,Gabriel,Bortoleto,15,kick Sauber,8,8,8,8,4,69,\N,\N,60,6,01:09.2,\N,11
+687,2025,11,70,Austrian ,27,Nico,Haulkenberg,15,kick Sauber,20,9,9,9,2,69,\N,\N,57,8,01:09.5,\N,11
+688,2025,11,70,Austrian ,31,Esteban,Ocon,210,Haas F1 Team,17,10,10,10,1,69,\N,\N,55,9,01:09.6,\N,11
+689,2025,11,70,Austrian ,87,Oliver,Bearman,210,Haas F1 Team,15,11,11,11,0,69,\N,\N,42,13,01:10.0,\N,11
+690,2025,11,70,Austrian ,6,Isack,Hadjar,215,Racing Bulls F1 Team,13,12,12,12,0,69,\N,\N,40,16,01:10.2,\N,11
+691,2025,11,70,Austrian ,10,Pierre,Gasly,214,Alpine F1 Team,10,13,13,13,0,69,\N,\N,46,15,01:10.2,\N,11
+692,2025,11,70,Austrian ,18,Lance,Stroll,117,Aston Martin,16,14,14,14,0,69,\N,\N,55,5,01:09.2,\N,11
+693,2025,11,70,Austrian ,43,Franco,Colapinto,214,Alpine F1 Team,14,15,15,15,0,69,\N,\N,44,10,01:09.6,\N,11
+694,2025,11,70,Austrian ,22,Yuki,Tsunoda,9,Red Bull,18,16,16,16,0,68,\N,\N,62,11,01:09.8,\N,12
+695,2025,11,70,Austrian ,23,Alexander,Albon,3,Williams,12,17,R,17,0,15,\N,\N,9,17,01:10.6,\N,5
+696,2025,11,70,Austrian ,1,Max,Verstappen,9,Red Bull,7,18,R,18,0,0,\N,\N,\N,\N,\N,\N,4
+697,2025,11,70,Austrian ,12,Andrea Kimi,Antonelli,131,Mercedes,9,19,R,19,0,0,\N,\N,\N,\N,\N,\N,4
+698,2025,11,70,Austrian ,55,Carlos,Sainz,3,Williams,19,20,W,20,0,0,\N,\N,\N,\N,\N,\N,23
+699,2025,12,9,British ,4,Lando,Norris,1,McLaren,3,1,1,1,25,52,37:15.7,5835735,48,2,01:29.7,\N,1
+700,2025,12,9,British ,81,Oscar,Piastri,1,McLaren,2,2,2,2,18,52,6.812,5842547,51,1,01:29.3,\N,1
+701,2025,12,9,British ,27,Nico,Haulkenberg,15,kick Sauber,19,3,3,3,15,52,34.742,5870477,51,14,01:30.9,\N,1
+702,2025,12,9,British ,44,Lewis,Hamilton,6,Ferrari,5,4,4,4,12,52,39.812,5875547,49,3,01:30.0,\N,1
+703,2025,12,9,British ,1,Max,Verstappen,9,Red Bull,1,5,5,5,10,52,56.781,5892516,49,5,01:30.2,\N,1
+704,2025,12,9,British ,10,Pierre,Gasly,214,Alpine F1 Team,8,6,6,6,8,52,59.857,5895592,48,8,01:30.8,\N,1
+705,2025,12,9,British ,18,Lance,Stroll,117,Aston Martin,17,7,7,7,6,52,60.603,5896338,50,15,01:32.1,\N,1
+706,2025,12,9,British ,23,Alexander,Albon,3,Williams,13,8,8,8,4,52,64.135,5899870,50,4,01:30.0,\N,1
+707,2025,12,9,British ,14,Fernando,Alonso,117,Aston Martin,7,9,9,9,2,52,65.858,5901593,49,6,01:30.4,\N,1
+708,2025,12,9,British ,63,George,Russell,131,Mercedes,4,10,10,10,1,52,70.674,5906409,51,11,01:30.9,\N,1
+709,2025,12,9,British ,87,Oliver,Bearman,210,Haas F1 Team,18,11,11,11,0,52,72.095,5907830,50,13,01:30.9,\N,1
+710,2025,12,9,British ,55,Carlos,Sainz,3,Williams,9,12,12,12,0,52,76.592,5912327,52,7,01:30.6,\N,1
+711,2025,12,9,British ,31,Esteban,Ocon,210,Haas F1 Team,14,13,13,13,0,52,77.301,5913036,52,9,01:30.8,\N,1
+712,2025,12,9,British ,16,Charles,Leclerc,6,Ferrari,6,14,14,14,0,52,84.477,5920212,50,10,01:30.8,\N,1
+713,2025,12,9,British ,22,Yuki,Tsunoda,9,Red Bull,11,15,15,15,0,51,\N,\N,49,12,01:30.9,\N,11
+714,2025,12,9,British ,12,Andrea Kimi,Antonelli,131,Mercedes,10,16,R,16,0,23,\N,\N,8,17,01:45.6,\N,130
+715,2025,12,9,British ,6,Isack,Hadjar,215,Racing Bulls F1 Team,12,17,R,17,0,17,\N,\N,9,16,01:41.7,\N,4
+716,2025,12,9,British ,5,Gabriel,Bortoleto,15,kick Sauber,16,18,R,18,0,3,\N,\N,3,18,02:16.1,\N,3
+717,2025,12,9,British ,30,Liam,Lawson,215,Racing Bulls F1 Team,15,19,R,19,0,0,\N,\N,\N,\N,\N,\N,4
+718,2025,12,9,British ,43,Franco,Colapinto,214,Alpine F1 Team,20,20,W,20,0,0,\N,\N,\N,\N,\N,\N,6
+719,2025,13,13,Belgian,81,Oscar,Piastri,1,McLaren,2,1,1,1,25,44,25:22.6,5122601,43,4,01:45.7,\N,1
+720,2025,13,13,Belgian,4,Lando,Norris,1,McLaren,1,2,2,2,18,44,3.415,5126016,42,3,01:45.3,\N,1
+721,2025,13,13,Belgian,16,Charles,Leclerc,6,Ferrari,3,3,3,3,15,44,20.185,5142786,40,9,01:46.2,\N,1
+722,2025,13,13,Belgian,1,Max,Verstappen,9,Red Bull,4,4,4,4,12,44,21.731,5144332,40,7,01:46.1,\N,1
+723,2025,13,13,Belgian,63,George,Russell,131,Mercedes,6,5,5,5,10,44,34.863,5157464,43,11,01:46.6,\N,1
+724,2025,13,13,Belgian,23,Alexander,Albon,3,Williams,5,6,6,6,8,44,39.926,5162527,38,15,01:46.8,\N,1
+725,2025,13,13,Belgian,44,Lewis,Hamilton,6,Ferrari,18,7,7,7,6,44,40.679,5163280,43,10,01:46.5,\N,1
+726,2025,13,13,Belgian,30,Liam,Lawson,215,Racing Bulls F1 Team,9,8,8,8,4,44,52.033,5174634,38,12,01:46.6,\N,1
+727,2025,13,13,Belgian,5,Gabriel,Bortoleto,15,kick Sauber,10,9,9,9,2,44,56.434,5179035,41,16,01:47.0,\N,1
+728,2025,13,13,Belgian,10,Pierre,Gasly,214,Alpine F1 Team,13,10,10,10,1,44,72.714,5195315,42,17,01:47.2,\N,1
+729,2025,13,13,Belgian,87,Oliver,Bearman,210,Haas F1 Team,12,11,11,11,0,44,73.145,5195746,43,13,01:46.7,\N,1
+730,2025,13,13,Belgian,27,Nico,Haulkenberg,15,kick Sauber,14,12,12,12,0,44,73.628,5196229,39,2,01:45.1,\N,1
+731,2025,13,13,Belgian,22,Yuki,Tsunoda,9,Red Bull,7,13,13,13,0,44,75.395,5197996,42,19,01:47.2,\N,1
+732,2025,13,13,Belgian,18,Lance,Stroll,117,Aston Martin,16,14,14,14,0,44,79.831,5202432,38,18,01:47.2,\N,1
+733,2025,13,13,Belgian,31,Esteban,Ocon,210,Haas F1 Team,11,15,15,15,0,44,86.063,5208664,44,14,01:46.7,\N,1
+734,2025,13,13,Belgian,12,Andrea Kimi,Antonelli,131,Mercedes,19,16,16,16,0,44,86.721,5209322,32,1,01:44.9,\N,1
+735,2025,13,13,Belgian,14,Fernando,Alonso,117,Aston Martin,20,17,17,17,0,44,87.924,5210525,32,5,01:45.8,\N,1
+736,2025,13,13,Belgian,55,Carlos,Sainz,3,Williams,17,18,18,18,0,44,92.024,5214625,30,6,01:46.1,\N,1
+737,2025,13,13,Belgian,43,Franco,Colapinto,214,Alpine F1 Team,15,19,19,19,0,44,95.25,5217851,30,8,01:46.1,\N,1
+738,2025,13,13,Belgian,6,Isack,Hadjar,215,Racing Bulls F1 Team,8,20,20,20,0,43,\N,\N,43,20,01:47.7,\N,11
+739,2025,14,11,Hungarian,4,Lando,Norris,1,McLaren,3,1,1,1,25,70,35:21.2,5721231,57,5,01:19.9,\N,1
+740,2025,14,11,Hungarian,81,Oscar,Piastri,1,McLaren,2,2,2,2,18,70,0.698,5721929,56,2,01:19.4,\N,1
+741,2025,14,11,Hungarian,63,George,Russell,131,Mercedes,4,3,3,3,15,70,21.916,5743147,45,1,01:19.4,\N,1
+742,2025,14,11,Hungarian,16,Charles,Leclerc,6,Ferrari,1,4,4,4,12,70,42.56,5763791,47,9,01:20.4,\N,1
+743,2025,14,11,Hungarian,14,Fernando,Alonso,117,Aston Martin,5,5,5,5,10,70,59.04,5780271,54,8,01:20.1,\N,1
+744,2025,14,11,Hungarian,5,Gabriel,Bortoleto,15,kick Sauber,7,6,6,6,8,70,66.169,5787400,48,11,01:20.7,\N,1
+745,2025,14,11,Hungarian,18,Lance,Stroll,117,Aston Martin,6,7,7,7,6,70,68.174,5789405,55,12,01:20.7,\N,1
+746,2025,14,11,Hungarian,30,Liam,Lawson,215,Racing Bulls F1 Team,9,8,8,8,4,70,69.451,5790682,56,10,01:20.5,\N,1
+747,2025,14,11,Hungarian,1,Max,Verstappen,9,Red Bull,8,9,9,9,2,70,72.645,5793876,50,3,01:19.6,\N,1
+748,2025,14,11,Hungarian,12,Andrea Kimi,Antonelli,131,Mercedes,15,10,10,10,1,69,\N,\N,54,13,01:20.7,\N,11
+749,2025,14,11,Hungarian,6,Isack,Hadjar,215,Racing Bulls F1 Team,10,11,11,11,0,69,\N,\N,48,15,01:20.8,\N,11
+750,2025,14,11,Hungarian,44,Lewis,Hamilton,6,Ferrari,12,12,12,12,0,69,\N,\N,55,7,01:20.0,\N,11
+751,2025,14,11,Hungarian,27,Nico,Haulkenberg,15,kick Sauber,18,13,13,13,0,69,\N,\N,67,6,01:20.0,\N,11
+752,2025,14,11,Hungarian,55,Carlos,Sainz,3,Williams,13,14,14,14,0,69,\N,\N,53,4,01:19.8,\N,11
+753,2025,14,11,Hungarian,23,Alexander,Albon,3,Williams,19,15,15,15,0,69,\N,\N,49,14,01:20.8,\N,11
+754,2025,14,11,Hungarian,31,Esteban,Ocon,210,Haas F1 Team,17,16,16,16,0,69,\N,\N,17,19,01:21.9,\N,11
+755,2025,14,11,Hungarian,22,Yuki,Tsunoda,9,Red Bull,20,17,17,17,0,69,\N,\N,46,17,01:21.2,\N,11
+756,2025,14,11,Hungarian,43,Franco,Colapinto,214,Alpine F1 Team,14,18,18,18,0,69,\N,\N,37,16,01:20.8,\N,11
+757,2025,14,11,Hungarian,10,Pierre,Gasly,214,Alpine F1 Team,16,19,19,19,0,69,\N,\N,46,18,01:21.4,\N,11
+758,2025,14,11,Hungarian,87,Oliver,Bearman,210,Haas F1 Team,11,20,R,20,0,48,\N,\N,37,20,01:22.0,\N,140
+759,2025,15,39,Dutch,81,Oscar,Piastri,1,McLaren,1,1,1,1,25,72,38:29.8,5909849,60,1,01:12.3,\N,1
+760,2025,15,39,Dutch,1,Max,Verstappen,9,Red Bull,3,2,2,2,18,72,1.271,5911120,70,3,01:12.9,\N,1
+761,2025,15,39,Dutch,6,Isack,Hadjar,215,Racing Bulls F1 Team,4,3,3,3,15,72,3.233,5913082,70,5,01:13.3,\N,1
+762,2025,15,39,Dutch,63,George,Russell,131,Mercedes,5,4,4,4,12,72,5.654,5915503,70,9,01:13.7,\N,1
+763,2025,15,39,Dutch,23,Alexander,Albon,3,Williams,15,5,5,5,10,72,6.327,5916176,70,7,01:13.7,\N,1
+764,2025,15,39,Dutch,87,Oliver,Bearman,210,Haas F1 Team,20,6,6,6,8,72,9.044,5918893,70,13,01:14.0,\N,1
+765,2025,15,39,Dutch,18,Lance,Stroll,117,Aston Martin,19,7,7,7,6,72,9.497,5919346,70,11,01:13.8,\N,1
+766,2025,15,39,Dutch,14,Fernando,Alonso,117,Aston Martin,10,8,8,8,4,72,11.709,5921558,42,8,01:13.7,\N,1
+767,2025,15,39,Dutch,22,Yuki,Tsunoda,9,Red Bull,12,9,9,9,2,72,13.597,5923446,71,16,01:14.4,\N,1
+768,2025,15,39,Dutch,31,Esteban,Ocon,210,Haas F1 Team,18,10,10,10,1,72,14.063,5923912,71,14,01:14.0,\N,1
+769,2025,15,39,Dutch,43,Franco,Colapinto,214,Alpine F1 Team,16,11,11,11,0,72,14.511,5924360,72,4,01:13.0,\N,1
+770,2025,15,39,Dutch,30,Liam,Lawson,215,Racing Bulls F1 Team,8,12,12,12,0,72,17.063,5926912,60,12,01:13.9,\N,1
+771,2025,15,39,Dutch,55,Carlos,Sainz,3,Williams,9,13,13,13,0,72,17.376,5927225,58,10,01:13.8,\N,1
+772,2025,15,39,Dutch,27,Nico,Haulkenberg,15,kick Sauber,17,14,14,14,0,72,19.725,5929574,61,18,01:14.9,\N,1
+773,2025,15,39,Dutch,5,Gabriel,Bortoleto,15,kick Sauber,13,15,15,15,0,72,21.565,5931414,63,15,01:14.3,\N,1
+774,2025,15,39,Dutch,12,Andrea Kimi,Antonelli,131,Mercedes,11,16,16,16,0,72,22.029,5931878,70,6,01:13.5,\N,1
+775,2025,15,39,Dutch,10,Pierre,Gasly,214,Alpine F1 Team,14,17,17,17,0,72,23.629,5933478,59,19,01:15.2,\N,1
+776,2025,15,39,Dutch,4,Lando,Norris,1,McLaren,2,18,18,18,0,64,\N,\N,59,2,01:12.4,\N,44
+777,2025,15,39,Dutch,16,Charles,Leclerc,6,Ferrari,6,19,R,19,0,52,\N,\N,33,17,01:14.6,\N,4
+778,2025,15,39,Dutch,44,Lewis,Hamilton,6,Ferrari,7,20,R,20,0,22,\N,\N,6,20,01:15.7,\N,3
+779,2025,16,14,Italian,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,53,13:24.3,4404325,52,2,01:21.0,\N,1
+780,2025,16,14,Italian,4,Lando,Norris,1,McLaren,2,2,2,2,18,53,19.207,4423532,53,1,01:20.9,\N,1
+781,2025,16,14,Italian,81,Oscar,Piastri,1,McLaren,3,3,3,3,15,53,21.351,4425676,47,3,01:21.2,\N,1
+782,2025,16,14,Italian,16,Charles,Leclerc,6,Ferrari,4,4,4,4,12,53,25.624,4429949,53,4,01:21.3,\N,1
+783,2025,16,14,Italian,63,George,Russell,131,Mercedes,5,5,5,5,10,53,32.881,4437206,45,8,01:21.8,\N,1
+784,2025,16,14,Italian,44,Lewis,Hamilton,6,Ferrari,10,6,6,6,8,53,37.449,4441774,50,6,01:21.5,\N,1
+785,2025,16,14,Italian,23,Alexander,Albon,3,Williams,14,7,7,7,6,53,50.537,4454862,53,5,01:21.4,\N,1
+786,2025,16,14,Italian,5,Gabriel,Bortoleto,15,kick Sauber,7,8,8,8,4,53,58.484,4462809,51,12,01:22.1,\N,1
+787,2025,16,14,Italian,12,Andrea Kimi,Antonelli,131,Mercedes,6,9,9,9,2,53,59.762,4464087,53,10,01:22.0,\N,1
+788,2025,16,14,Italian,6,Isack,Hadjar,215,Racing Bulls F1 Team,19,10,10,10,1,53,63.891,4468216,46,11,01:22.1,\N,1
+789,2025,16,14,Italian,55,Carlos,Sainz,3,Williams,13,11,11,11,0,53,64.469,4468794,47,7,01:21.7,\N,1
+790,2025,16,14,Italian,87,Oliver,Bearman,210,Haas F1 Team,11,12,12,12,0,53,79.288,4483613,53,9,01:21.8,\N,1
+791,2025,16,14,Italian,22,Yuki,Tsunoda,9,Red Bull,9,13,13,13,0,53,80.701,4485026,52,16,01:22.7,\N,1
+792,2025,16,14,Italian,30,Liam,Lawson,215,Racing Bulls F1 Team,18,14,14,14,0,53,82.351,4486676,49,17,01:22.8,\N,1
+793,2025,16,14,Italian,31,Esteban,Ocon,210,Haas F1 Team,15,15,15,15,0,52,\N,\N,48,18,01:22.9,\N,11
+794,2025,16,14,Italian,10,Pierre,Gasly,214,Alpine F1 Team,20,16,16,16,0,52,\N,\N,52,14,01:22.2,\N,11
+795,2025,16,14,Italian,43,Franco,Colapinto,214,Alpine F1 Team,17,17,17,17,0,52,\N,\N,48,15,01:22.2,\N,11
+796,2025,16,14,Italian,18,Lance,Stroll,117,Aston Martin,16,18,18,18,0,52,\N,\N,51,13,01:22.2,\N,11
+797,2025,16,14,Italian,14,Fernando,Alonso,117,Aston Martin,8,19,R,19,0,24,\N,\N,23,19,01:23.8,\N,22
+798,2025,16,14,Italian,27,Nico,Haulkenberg,15,kick Sauber,12,20,W,20,0,0,\N,\N,\N,\N,\N,\N,6
+799,2025,17,73,Azerbaijan,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,51,33:26.4,5606408,50,1,01:43.4,\N,1
+800,2025,17,73,Azerbaijan,63,George,Russell,131,Mercedes,5,2,2,2,18,51,14.609,5621017,42,2,01:43.8,\N,1
+801,2025,17,73,Azerbaijan,55,Carlos,Sainz,3,Williams,2,3,3,3,15,51,19.199,5625607,47,4,01:44.0,\N,1
+802,2025,17,73,Azerbaijan,12,Andrea Kimi,Antonelli,131,Mercedes,4,4,4,4,12,51,21.76,5628168,47,6,01:44.1,\N,1
+803,2025,17,73,Azerbaijan,30,Liam,Lawson,215,Racing Bulls F1 Team,3,5,5,5,10,51,33.29,5639698,49,13,01:44.5,\N,1
+804,2025,17,73,Azerbaijan,22,Yuki,Tsunoda,9,Red Bull,6,6,6,6,8,51,33.808,5640216,41,12,01:44.4,\N,1
+805,2025,17,73,Azerbaijan,4,Lando,Norris,1,McLaren,7,7,7,7,6,51,34.227,5640635,42,8,01:44.2,\N,1
+806,2025,17,73,Azerbaijan,44,Lewis,Hamilton,6,Ferrari,12,8,8,8,4,51,36.31,5642718,40,5,01:44.0,\N,1
+807,2025,17,73,Azerbaijan,16,Charles,Leclerc,6,Ferrari,10,9,9,9,2,51,36.774,5643182,50,9,01:44.3,\N,1
+808,2025,17,73,Azerbaijan,6,Isack,Hadjar,215,Racing Bulls F1 Team,8,10,10,10,1,51,38.982,5645390,50,3,01:43.9,\N,1
+809,2025,17,73,Azerbaijan,5,Gabriel,Bortoleto,15,kick Sauber,13,11,11,11,0,51,67.606,5674014,45,14,01:44.9,\N,1
+810,2025,17,73,Azerbaijan,87,Oliver,Bearman,210,Haas F1 Team,15,12,12,12,0,51,68.262,5674670,31,10,01:44.3,\N,1
+811,2025,17,73,Azerbaijan,23,Alexander,Albon,3,Williams,19,13,13,13,0,51,72.87,5679278,51,7,01:44.2,\N,1
+812,2025,17,73,Azerbaijan,31,Esteban,Ocon,210,Haas F1 Team,20,14,14,14,0,51,77.58,5683988,50,17,01:45.4,\N,1
+813,2025,17,73,Azerbaijan,14,Fernando,Alonso,117,Aston Martin,11,15,15,15,0,51,78.707,5685115,50,15,01:45.0,\N,1
+814,2025,17,73,Azerbaijan,27,Nico,Haulkenberg,15,kick Sauber,17,16,16,16,0,51,80.237,5686645,47,11,01:44.4,\N,1
+815,2025,17,73,Azerbaijan,18,Lance,Stroll,117,Aston Martin,14,17,17,17,0,51,96.392,5702800,50,16,01:45.1,\N,1
+816,2025,17,73,Azerbaijan,10,Pierre,Gasly,214,Alpine F1 Team,18,18,18,18,0,50,\N,\N,37,18,01:45.5,\N,11
+817,2025,17,73,Azerbaijan,43,Franco,Colapinto,214,Alpine F1 Team,16,19,19,19,0,50,\N,\N,40,19,01:46.1,\N,11
+818,2025,17,73,Azerbaijan,81,Oscar,Piastri,1,McLaren,9,20,R,20,0,0,\N,\N,\N,\N,\N,\N,3
+819,2025,18,15,Singapore,63,George,Russell,131,Mercedes,1,1,1,1,25,62,40:22.4,6022367,27,11,01:35.7,\N,1
+820,2025,18,15,Singapore,1,Max,Verstappen,9,Red Bull,2,2,2,2,18,62,5.43,6027797,30,10,01:35.6,\N,1
+821,2025,18,15,Singapore,4,Lando,Norris,1,McLaren,5,3,3,3,15,62,6.066,6028433,36,7,01:35.6,\N,1
+822,2025,18,15,Singapore,81,Oscar,Piastri,1,McLaren,3,4,4,4,12,62,8.146,6030513,31,6,01:35.4,\N,1
+823,2025,18,15,Singapore,12,Andrea Kimi,Antonelli,131,Mercedes,4,5,5,5,10,62,33.681,6056048,27,4,01:35.3,\N,1
+824,2025,18,15,Singapore,16,Charles,Leclerc,6,Ferrari,7,6,6,6,8,62,45.996,6068363,41,14,01:36.0,\N,1
+825,2025,18,15,Singapore,14,Fernando,Alonso,117,Aston Martin,10,7,7,7,6,62,80.667,6103034,52,13,01:35.9,\N,1
+826,2025,18,15,Singapore,44,Lewis,Hamilton,6,Ferrari,6,8,8,8,4,62,85.251,6107618,48,1,01:33.8,\N,1
+827,2025,18,15,Singapore,87,Oliver,Bearman,210,Haas F1 Team,9,9,9,9,2,62,93.527,6115894,56,15,01:36.2,\N,1
+828,2025,18,15,Singapore,55,Carlos,Sainz,3,Williams,18,10,10,10,1,61,\N,\N,61,3,01:35.0,\N,11
+829,2025,18,15,Singapore,6,Isack,Hadjar,215,Racing Bulls F1 Team,8,11,11,11,0,61,\N,\N,54,18,01:36.9,\N,11
+830,2025,18,15,Singapore,22,Yuki,Tsunoda,9,Red Bull,13,12,12,12,0,61,\N,\N,45,17,01:36.8,\N,11
+831,2025,18,15,Singapore,18,Lance,Stroll,117,Aston Martin,15,13,13,13,0,61,\N,\N,60,12,01:35.9,\N,11
+832,2025,18,15,Singapore,23,Alexander,Albon,3,Williams,20,14,14,14,0,61,\N,\N,60,9,01:35.6,\N,11
+833,2025,18,15,Singapore,30,Liam,Lawson,215,Racing Bulls F1 Team,12,15,15,15,0,61,\N,\N,61,8,01:35.6,\N,11
+834,2025,18,15,Singapore,43,Franco,Colapinto,214,Alpine F1 Team,16,16,16,16,0,61,\N,\N,17,20,01:37.2,\N,11
+835,2025,18,15,Singapore,5,Gabriel,Bortoleto,15,kick Sauber,14,17,17,17,0,61,\N,\N,16,19,01:37.1,\N,11
+836,2025,18,15,Singapore,31,Esteban,Ocon,210,Haas F1 Team,17,18,18,18,0,61,\N,\N,32,16,01:36.6,\N,11
+837,2025,18,15,Singapore,10,Pierre,Gasly,214,Alpine F1 Team,19,19,19,19,0,61,\N,\N,53,2,01:34.6,\N,11
+838,2025,18,15,Singapore,27,Nico,Haulkenberg,15,kick Sauber,11,20,20,20,0,61,\N,\N,47,5,01:35.4,\N,11
+839,2025,19,69,United States,1,Max,Verstappen,9,Red Bull,1,1,1,1,25,56,34:00.2,5640161,35,3,01:38.0,\N,1
+840,2025,19,69,United States,4,Lando,Norris,1,McLaren,2,2,2,2,18,56,7.959,5648120,35,2,01:37.6,\N,1
+841,2025,19,69,United States,16,Charles,Leclerc,6,Ferrari,3,3,3,3,15,56,15.373,5655534,47,5,01:38.2,\N,1
+842,2025,19,69,United States,44,Lewis,Hamilton,6,Ferrari,5,4,4,4,12,56,28.536,5668697,55,8,01:38.4,\N,1
+843,2025,19,69,United States,81,Oscar,Piastri,1,McLaren,6,5,5,5,10,56,29.678,5669839,55,10,01:38.6,\N,1
+844,2025,19,69,United States,63,George,Russell,131,Mercedes,4,6,6,6,8,56,33.456,5673617,35,4,01:38.2,\N,1
+845,2025,19,69,United States,22,Yuki,Tsunoda,9,Red Bull,13,7,7,7,6,56,52.714,5692875,54,13,01:38.8,\N,1
+846,2025,19,69,United States,27,Nico,Haulkenberg,15,kick Sauber,11,8,8,8,4,56,57.249,5697410,54,9,01:38.4,\N,1
+847,2025,19,69,United States,87,Oliver,Bearman,210,Haas F1 Team,8,9,9,9,2,56,64.722,5704883,32,16,01:39.1,\N,1
+848,2025,19,69,United States,14,Fernando,Alonso,117,Aston Martin,10,10,10,10,1,56,70.001,5710162,54,12,01:38.8,\N,1
+849,2025,19,69,United States,30,Liam,Lawson,215,Racing Bulls F1 Team,12,11,11,11,0,56,73.209,5713370,53,14,01:39.0,\N,1
+850,2025,19,69,United States,18,Lance,Stroll,117,Aston Martin,19,12,12,12,0,56,74.778,5714939,54,15,01:39.1,\N,1
+851,2025,19,69,United States,12,Andrea Kimi,Antonelli,131,Mercedes,7,13,13,13,0,56,75.746,5715907,33,1,01:37.6,\N,1
+852,2025,19,69,United States,23,Alexander,Albon,3,Williams,18,14,14,14,0,56,80,5720161,38,7,01:38.3,\N,1
+853,2025,19,69,United States,31,Esteban,Ocon,210,Haas F1 Team,17,15,15,15,0,56,83.043,5723204,31,18,01:39.3,\N,1
+854,2025,19,69,United States,6,Isack,Hadjar,215,Racing Bulls F1 Team,20,16,16,16,0,56,92.807,5732968,54,11,01:38.7,\N,1
+855,2025,19,69,United States,43,Franco,Colapinto,214,Alpine F1 Team,15,17,17,17,0,55,\N,\N,54,17,01:39.2,\N,11
+856,2025,19,69,United States,5,Gabriel,Bortoleto,15,kick Sauber,16,18,18,18,0,55,\N,\N,39,6,01:38.3,\N,11
+857,2025,19,69,United States,10,Pierre,Gasly,214,Alpine F1 Team,14,19,19,19,0,55,\N,\N,30,19,01:39.3,\N,11
+858,2025,19,69,United States,55,Carlos,Sainz,3,Williams,9,20,R,20,0,5,\N,\N,3,20,01:40.3,\N,130
+859,2025,20,32,Mexico City,4,Lando,Norris,1,McLaren,1,1,1,1,25,71,37:58.6,5878574,45,8,01:20.8,\N,1
+860,2025,20,32,Mexico City,16,Charles,Leclerc,6,Ferrari,2,2,2,2,18,71,30.324,5908898,45,14,01:21.6,\N,1
+861,2025,20,32,Mexico City,1,Max,Verstappen,9,Red Bull,5,3,3,3,15,71,31.049,5909623,50,10,01:21.1,\N,1
+862,2025,20,32,Mexico City,87,Oliver,Bearman,210,Haas F1 Team,9,4,4,4,12,71,40.955,5919529,51,7,01:20.7,\N,1
+863,2025,20,32,Mexico City,81,Oscar,Piastri,1,McLaren,7,5,5,5,10,71,42.065,5920639,53,3,01:20.4,\N,1
+864,2025,20,32,Mexico City,12,Andrea Kimi,Antonelli,131,Mercedes,6,6,6,6,8,71,47.837,5926411,58,9,01:20.8,\N,1
+865,2025,20,32,Mexico City,63,George,Russell,131,Mercedes,4,7,7,7,6,71,50.287,5928861,50,1,01:20.1,\N,1
+866,2025,20,32,Mexico City,44,Lewis,Hamilton,6,Ferrari,3,8,8,8,4,71,56.446,5935020,50,6,01:20.6,\N,1
+867,2025,20,32,Mexico City,31,Esteban,Ocon,210,Haas F1 Team,11,9,9,9,2,71,75.464,5954038,65,17,01:21.9,\N,1
+868,2025,20,32,Mexico City,5,Gabriel,Bortoleto,15,kick Sauber,16,10,10,10,1,71,76.863,5955437,39,11,01:21.1,\N,1
+869,2025,20,32,Mexico City,22,Yuki,Tsunoda,9,Red Bull,10,11,11,11,0,71,79.048,5957622,44,13,01:21.5,\N,1
+870,2025,20,32,Mexico City,23,Alexander,Albon,3,Williams,17,12,12,12,0,70,\N,\N,45,4,01:20.5,\N,11
+871,2025,20,32,Mexico City,6,Isack,Hadjar,215,Racing Bulls F1 Team,8,13,13,13,0,70,\N,\N,44,16,01:21.7,\N,11
+872,2025,20,32,Mexico City,18,Lance,Stroll,117,Aston Martin,19,14,14,14,0,70,\N,\N,45,5,01:20.6,\N,11
+873,2025,20,32,Mexico City,10,Pierre,Gasly,214,Alpine F1 Team,18,15,15,15,0,70,\N,\N,43,18,01:22.3,\N,11
+874,2025,20,32,Mexico City,43,Franco,Colapinto,214,Alpine F1 Team,20,16,16,16,0,70,\N,\N,50,12,01:21.3,\N,11
+875,2025,20,32,Mexico City,55,Carlos,Sainz,3,Williams,12,17,17,17,0,67,\N,\N,48,2,01:20.1,\N,3
+876,2025,20,32,Mexico City,14,Fernando,Alonso,117,Aston Martin,14,18,R,18,0,34,\N,\N,22,15,01:21.7,\N,23
+877,2025,20,32,Mexico City,27,Nico,Haulkenberg,15,kick Sauber,13,19,R,19,0,25,\N,\N,14,19,01:23.1,\N,64
+878,2025,20,32,Mexico City,30,Liam,Lawson,215,Racing Bulls F1 Team,15,20,R,20,0,5,\N,\N,4,20,01:25.1,\N,"130,"
