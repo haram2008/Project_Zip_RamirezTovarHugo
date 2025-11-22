@@ -1,0 +1,503 @@
+---
+title: "FORMULA 1 AND THE ART OF AERODYNAMICS"
+author: "Hugo Andres Ramirez Tovar"
+date: "2025-11-21"
+output:
+  html_document: default
+  pdf_document: default
+
+---
+
+```{r}
+# Libraries
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(skimr)
+library(readr)
+library(forcats)
+library(janitor)
+```
+
+## Summary
+The project explores the 2024 and 2025 Formula 1 seasons, as well as the implications of the new FIA (International Automobile Federation) regulations, which is the highest authority of this championship. The most useful information is selected from the data set, designing comparative and informative graphs that indicate the performance of each individual driver and the team, as well as the relevance of the wind tunnel hours that each team had after the 2024/2025 season.
+
+
+Using the information in each graph, a conclusion was drawn that analyzes the results of each team based on the number of wind tunnel hours and the difference in results between the 2024 and 2025 Formula 1 seasons. This information is useful for new F1 fans approaching the sport for the first time, as it allows them to understand that Formula 1 is not a sport where one team dominates each year, but where different regulations can favor one team and harm another.
+
+
+## Purpose
+The goal of the project is to analyze the “F1_race_traces” and “F1_wind_tunnel” dataset, which includes information on the 2024 and 2025 Formula 1 seasons.
+
+In 2021, the FIA implemented regulations that regulate the hours of each team in the wind tunnel with the hope of creating a more balanced competition and giving smaller teams the opportunity to win the championship. The regulations seek to reduce the hours that the largest teams have to develop the aerodynamics of their cars and grant those additional hours to the teams with the worst performance so that they can improve their cars. The purpose of the project is to extract information that helps us determine the impact of this regulation on the teams and if this rule really favors smaller teams.
+
+
+After extracting the most relevant information from the data set, the data will be analyzed and graphs will be designed that represent the most important changes between teams, drivers from the 2024 to 2025 season, and determine if the hours in the wind tunnel have a significant impact on the performance of the smaller teams and know if the FIA regulations met their objective.
+
+
+```{r}
+f1_race_traces <- read.csv("F1_race_traces.csv")
+```
+
+```{r}
+
+feature_dictionary <- data.frame(
+  Variable = colnames(f1_race_traces),
+  Description = c(
+    "results",
+    "year",
+    "round",
+    "circuit",
+    "Track",
+    "No of Drivers",
+    "Drivers",
+    "surname",
+    "constructor",
+    "Team",
+    "grid",
+    "position",
+    "positionText",
+    "positionOrder",
+    "points",
+    "laps",
+    "time",
+    "miliseconds",
+    "fastestLap",
+    "rank",
+    "fastestlapTime",
+    "fastestlapSpeed",
+    "status"
+  ),
+  Type = c(
+    "Numerical",  
+    "Numerical",    
+    "Numerical",  
+    "Categorical",    
+    "Categorical",    
+    "Numerical",    
+    "Categorical",    
+    "Categorical",    
+    "Categorical",
+    "Categorical",
+    "Numerical",
+    "Numerical",
+    "Categorical",
+    "Numerical",
+    "Numerical",
+    "Numerical",
+    "Categorical",
+    "Numerical",
+    "Numerical",
+    "Numerical",
+    "Categorical",
+    "Numerical",
+    "Categorical"
+  )
+)
+
+```
+
+```{r}
+# Variables
+
+feature_dict_race <- data.frame(
+  Variable = colnames(f1_race_traces),
+  Type = c(
+    "Numerical", "Numerical", "Numerical", "Categorical", "Categorical",
+    "Numerical", "Categorical", "Categorical", "Categorical", "Categorical",
+    "Numerical", "Numerical", "Categorical", "Numerical", "Numerical",
+    "Numerical", "Categorical", "Numerical", "Numerical", "Numerical",
+    "Categorical", "Numerical", "Categorical"
+ )
+)
+
+numerical_vars_race <- feature_dict_race$Variable[feature_dict_race$Type == "Numerical"]
+categorical_vars_race <- feature_dict_race$Variable[feature_dict_race$Type == "Categorical"]
+
+
+```
+
+## Races Data
+
+The "F1_race_traces" dataset includes variables such as race results, race locations, team, driver's and his position and time, with summary of the condition in which each driver finished the race. These variables are divided into two types: character and numeric.
+
+The variables for type character including:
+circuit(combining urban tracks, historical routes and spectacular settings),
+Track(track limits'),
+Drivers(official name of pilot number),
+surname(official last name of pilot number),
+constructor(official number of team),
+Team(official name of team),
+positionText(position of race),
+time(real-time of race),
+fastestlapTime(faster turnaround time)",
+status(race status).
+
+The set of numerical data in my database is made up of the following data:
+results (Id Dataset),
+year (year the datos),
+round (race classification round),
+No of Drivers(official pilot number),
+grid(position of the cars on the circuit),
+position(starting position),
+positionOrder(order in which the drivers are classified on the grid),
+points(points system),
+laps(turning removal procedures),
+miliseconds(duration of races and pit stops),
+fastestLap(faster turnaround time),
+rank(driver classification),
+fastestlapSpeed(fastest race time).
+
+The variables "time" and "milliseconds" contain missing variables represented with the "\N symbol”; to correct this mistake I converted these specific cells to character values. Finally, some of the coding when presents in errors while running because the data was very long, to fix these I used the pivot wider function to make my data wider and easy to read for the system.
+
+```{r}
+num_summary <- f1_race_traces %>%
+  select(where(is.numeric)) %>%
+  summary()
+```
+
+```{r}
+num_summary
+```
+
+```{r}
+cat_summary <- f1_race_traces %>%
+  select(where(is.character)) %>%
+  summary()
+```
+
+```{r}
+cat_summary
+```
+
+```{r}
+f1_wind_tunnel <- read.csv("constructors_wind_tunnel.csv")
+```
+
+```{r}
+
+feature_dictionary <- data.frame(
+  Variable = colnames(f1_wind_tunnel),
+  Description = c(
+    "constructor position",
+    "constructor",
+    "Team",
+    "nationality",
+    "tunnel_hours",
+    "income_2024"
+  ),
+  Type = c(
+    "numerical",    
+    "categorical",  
+    "categorical",  
+    "categorical",  
+    "numerical",    
+    "numerical"
+  )
+)
+```
+
+
+```{r}
+feature_dict_tunnel <- data.frame(
+  Variable = colnames(f1_wind_tunnel),
+  Type = c("numerical", "categorical", "categorical", "categorical", "numerical", "numerical")
+)
+feature_dict_tunnel$Type <- tools::toTitleCase(feature_dict_tunnel$Type)
+
+numerical_vars_tunnel <- feature_dict_tunnel$Variable[feature_dict_tunnel$Type == "Numerical"]
+categorical_vars_tunnel <- feature_dict_tunnel$Variable[feature_dict_tunnel$Type == "Categorical"]
+```
+
+
+
+## Wind Tunnel and Team Income Data
+
+The "f1_wind_tunnel" dataset includes variables such as constructor position, the team, the nationality of the team with summary of the income that every team had and their wind tunnel hours. These variables are divided into two types: character and numeric.
+
+The variables for type character including:
+constructor (the official identifier of the racing team),
+Team (the official name of the constructor),
+nationality (the country of origin associated with the team),
+
+The set of numerical data in my database is made up of the following data:
+constructor position (the team's ranking in the constructor standings
+tunnel_hours (the number of hours allocated for wind tunnel testing)
+income_2024 (the projected or reported income for the 2024 season)
+
+
+```{r}
+num_summary <- f1_wind_tunnel %>%
+  select(where(is.numeric)) %>%
+  summary()
+```
+
+```{r}
+num_summary
+```
+
+```{r}
+cat_summary <- f1_wind_tunnel %>%
+  select(where(is.character)) %>%
+  summary()
+```
+
+```{r}
+cat_summary
+```
+
+
+
+## Exploratory Data Analysis
+
+```{r}
+#Chunk Description
+
+
+# Load and clean the dataset
+f1 <- read_csv("F1_race_traces.csv") %>%
+  clean_names()
+ 
+# Filter for 2024 season and valid entries
+f1_clean_2024 <- f1 %>%
+  filter(year == 2024, !is.na(drivers), !is.na(track), !is.na(points)) %>%
+  arrange(drivers, round)
+
+# Create ordered factor for tracks based on round number
+track_levels <- f1_clean_2024 %>%
+  arrange(round) %>%
+  distinct(round, track) %>%
+  arrange(round) %>%
+  pull(track)
+
+f1_clean_2024 <- f1_clean_2024 %>%
+  mutate(track = factor(track, levels = track_levels))
+
+# Calculate cumulative points per driver
+f1_cumulative_2024 <- f1_clean_2024 %>%
+  group_by(drivers) %>%
+  arrange(track) %>%
+  mutate(cumulative_points = cumsum(points))
+
+# Plot: Scatter with connecting lines
+ggplot(f1_cumulative_2024, aes(x = track, y = cumulative_points, color = drivers, group = drivers)) +
+  geom_point(size = 1, shape = 15, fill = "white", stroke = 1) +
+  geom_line(linewidth = 1, alpha = 0.7) +
+  labs(
+    title = "2024 F1 Championship: Driver Points Evolution",
+    x = "Track",
+    y = "Cumulative Points",
+    color = "Driver"
+  ) +
+  theme_minimal(base_size = 10) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, margin = margin(t = 5)),
+    axis.text.y = element_text(margin = margin(r = 10)),
+    axis.title.x = element_text(margin = margin(t = 15)),
+    axis.title.y = element_text(margin = margin(r = 15)),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10),
+    plot.caption = element_text(hjust = 0.9, size = 7),
+    legend.position = "left"
+  )
+
+f1 <- read_csv("F1_race_traces.csv") %>%
+  clean_names()
+
+# Filter for 2025 season and valid entries
+f1_clean_2025 <- f1 %>%
+  filter(year == 2025, !is.na(drivers), !is.na(track), !is.na(points)) %>%
+  arrange(drivers, round)
+
+# Create ordered factor for tracks based on round number
+track_levels_2025 <- f1_clean_2025 %>%
+  arrange(round) %>%
+  distinct(round, track) %>%
+  arrange(round) %>%
+  pull(track)
+
+f1_clean_2025 <- f1_clean_2025 %>%
+  mutate(track = factor(track, levels = track_levels_2025))
+
+# Calculate cumulative points per driver
+f1_cumulative_2025 <- f1_clean_2025 %>%
+  group_by(drivers) %>%
+  arrange(track) %>%
+  mutate(cumulative_points = cumsum(points))
+  
+# Plot: Scatter with connecting lines
+ggplot(f1_cumulative_2025, aes(x = track, y = cumulative_points, color = drivers, group = drivers)) +
+  geom_point(size = 1, shape = 15, fill = "white", stroke = 1) +
+  geom_line(linewidth = 1 , alpha = 0.7) +
+  labs(
+    title = "2025 F1 Championship: Driver Points Evolution",
+    x = "Track",
+    y = "Cumulative Points",
+    color = "Driver"
+  ) +
+  theme_minimal(base_size = 10) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, margin = margin(t = 5)),
+    axis.text.y = element_text(margin = margin(r = 10)),
+    axis.title.x = element_text(margin = margin(t = 15)),
+    axis.title.y = element_text(margin = margin(r = 15)),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10),
+    plot.caption = element_text(hjust = 0.9, size = 7),
+    legend.position = "left"
+  )
+```
+
+
+The following scattered plot line graphs show the position of each driver during a specific moment of the season. The 2024 graph is showing more races than the 2025 because the 2025 Formula one season still in course, but we can already appreciate certain differences, for example Max Verstappen, which appears as Champions of the 2024 Formula one world championship, appears third in the 2025 Formula one world championship. One of the reasons why this could happen is because the team doesn't have as much time to develop the car as they did the last year.
+
+Finishing third rather than first may seem like something without relevance for people who is watching the sport for the first time, however, this drop in performance has big implications talking about the income of the team at the end of a season. Because the FIA distributes the money between the teams according to the position in the championship, meaning teams at the bottom of the table will receive less money and will have to reduce their staff.
+
+
+
+```{r}
+team_points <- f1 %>%
+  filter(!is.na(team), !is.na(points), year %in% c(2024, 2025)) %>%
+  group_by(team, year) %>%
+  summarise(total_points = sum(points), .groups = "drop")
+
+# Ensure consistent team ordering
+team_order <- team_points %>%
+  group_by(team) %>%
+  summarise(avg_points = mean(total_points)) %>%
+  arrange(desc(avg_points)) %>%
+  pull(team)
+
+# Plot: Side-by-side bar chart
+ggplot(team_points, aes(x = factor(team, levels = team_order), y = total_points, fill = factor(year))) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+  labs(
+    title = "Total Points by F1 Team: 2024 vs 2025",
+    x = "Team",
+    y = "Total Points",
+    fill = "Season"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top"
+  )
+```
+
+
+The graphs show the position of each team during the season 2024 and 2025,  for example McLaren, which appears as Scuderia Champions of the 2024 Formula one world championship, appears leading in the 2025 Formula one world championship. 
+
+This graph can help newer F1 fans to understand that F1 are not cars going around circles, but a mixture of drivers ability and the capacity of engineers to develop a competitive car with the resources they are given.
+
+
+
+```{r}
+f1 <- read_csv("F1_race_traces.csv") %>% clean_names()
+
+# Filter Ferrari drivers in 2025 with valid position data
+ferrari_2025 <- f1 %>%
+  filter(year == 2025, team == "Ferrari", !is.na(position_order), !is.na(track), !is.na(surname))
+
+# Ensure race order is chronological
+track_order <- ferrari_2025 %>%
+  distinct(round, track) %>%
+  arrange(round) %>%
+  pull(track)
+
+ferrari_2025 <- ferrari_2025 %>%
+  mutate(track = factor(track, levels = track_order))
+
+# Plot: Paired bar chart per race (standard orientation)
+ggplot(ferrari_2025, aes(x = track, y = position_order, fill = surname)) +
+  geom_col(position = position_dodge(width = 0.7), width = 0.6) +
+  scale_y_continuous(breaks = 1:20) +  # Standard orientation: bars grow upward
+  labs(
+    title = "Ferrari Driver Finishing Positions by Race (2025)",
+    x = "Race Track",
+    y = "Finishing Position",
+    fill = "Driver"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major.y = element_line(color = "gray")
+  )
+```
+
+
+The following Bar graph compares the position of each Ferrari driver on every race of the 2025 so far, as we can observe there is a certain parity between the drivers, but there is a certain tendency of the Driver Charles Leclerc beating his team Lewis Hamilton in most of the races. The main reason behind these is because this the first season of Lewis Hamilton on Ferrari, with him being at Mercedes in the 2024 season, but it has been a very difficult adaptation session for the British driver, costing essential points for the team in the championship.
+
+It is important for new F1 fans to understand that the period of adaptation of a driver is not instantly, but it takes time for them, in the most extreme cases, a driver never adapts to a new car and with the new regulations of 2025, the drivers who adapt faster have a bigger advantage than others and can favor more their team in the fight for points.
+
+
+```{r}
+ggplot(f1_wind_tunnel, aes(x = reorder(Team, tunnel_hours), y = tunnel_hours, fill = Team)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(
+    title = "Wind Tunnel Hours by F1 Team (2025 Season)",
+    x = "Team",
+    y = "Wind Tunnel Hours"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+In relation to the last graph, we can observe how the reduction of wind tunnel hours has affected more to one team that it did to others. One example is Mclaren, that despite seeing their wind tunnel hours being reduced because of winning the World constructor championship in 2024, they are leading the 2025 constructors championship with a big margin over their rivals, on the other hand we have Ferrari, who finished second in last year championship are now the 4th best team behind Mercedes and Red bull because of their reduced wind tunnel hours.
+
+```{r}
+income_data <- data.frame(
+  Team = c("McLaren", "Ferrari", "Red Bull", "Mercedes", "Aston Martin",
+           "Alpine F1 Team", "Haas F1 Team", "Racing Bulls F1 Team",
+           "Williams", "Kick Sauber"),
+  Income = c(128.4, 222.6, 182.4, 188.6, 112.5, 107.7, 64.6, 83.8, 101.3, 74.2)
+)
+
+```
+
+```{r}
+ggplot(income_data, aes(x = reorder(Team, Income), y = Income)) +
+  geom_segment(aes(x = reorder(Team, Income), xend = reorder(Team, Income), y = 0, yend = Income), color = "gray") +
+  geom_point(size = 5, aes(color = Team)) +
+  coord_flip() +
+  labs(
+    title = "F1 Team Income at End of 2024 Season",
+    x = "Team",
+    y = "Income (US$ million)"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+
+```
+
+The following graph shows the revenue of each team at the end of the 2024 season. As you can see, there is a difference of $145 million between the highest and lowest earning teams. The main reason for this is the team's position in the Constructors' Championship and how the FIA distributes the money among the teams. The FIA's new regulations aim to eliminate this limitation and give smaller teams the same opportunities as the leading teams.
+
+
+```{r}
+dim(f1_race_traces)
+```
+```{r}
+dim(f1_wind_tunnel)
+```
+
+## Results
+The driver evolution chart for the 2024 Formula One season shows the total number of points obtained by each driver at the end of the season and how that position changed throughout the year. The position of several drivers at the end of the year determined their continued participation in the 2025 season, in which notable changes in the positions of certain drivers compared to 2024 are observed, as reflected in the driver evolution chart for the 2025 Formula One season.
+
+On the other hand, the points difference chart for each team between 2024 and 2025 shows the number of points a given team accumulated during both seasons and compares them using comparative bars.
+
+Finally, a similar chart is presented comparing the positions of the two Ferrari drivers in each Grand Prix of all the races held in 2025. The Ferrari team was chosen for this comparison due to its long history in F1 dating back to 1950. The chart shows how Charles Leclerc usually finishes ahead of his teammate Lewis Hamilton, although there are some exceptions in specific races like Great Britain.
+
+## Conclusions
+The project results demonstrate that, despite reducing the gap between teams, the regulations haven't allowed smaller teams to compete for championships or victories as planned. This is largely due to the significant budget disparities between teams.
+
+Therefore, the answer to my question, "Will the new regulations favor smaller teams?" is no. The new regulations haven't benefited smaller teams due to the substantial financial differences between them.
+
+
+## References
+James Trotman, updated 11/09/25 https://www.kaggle.com/code/jtrotman/f1-race-traces-2025
+
+Wijngaarden, Sandy van. “This Is How Much Money F1 Teams Got Paid in 2024.” GPblog, Mar. 2025, www.gpblog.com/en/news/this-is-how-much-f1-teams-got-in-2024.html.
+
+“Crash.net - Formula 1 (@Crashnetformula1) on Threads.” Threads, 2025, www.threads.com/@crashnetformula1/post/DEfZiu2NXJA.
+
+
+
